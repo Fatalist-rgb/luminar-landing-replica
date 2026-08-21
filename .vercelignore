@@ -1,10 +1,22 @@
-research/
-specs/
-.specify/
-.agents/
-.claude/
-tests/
-test-results/
-playwright-report/
+# зависимости и локальная сборка — Vercel собирает сам
+node_modules
+.next
+out
+build
+*.tsbuildinfo
+
+# материалы разработки, не нужные в проде
+research
+specs
+.specify
+.agents
+.claude
+tests
+test-results
+playwright-report
 playwright.config.ts
-scripts/
+scripts
+
+# служебное
+.git
+.vercel

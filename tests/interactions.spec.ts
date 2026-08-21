@@ -27,11 +27,14 @@ test.describe('Содержимое страницы', () => {
     expect(data.mainEntity).toHaveLength(10);
   });
 
-  test('нет обращений к сторонним доменам', async ({ page }) => {
+  test('нет обращений к сторонним доменам', async ({ page, baseURL }) => {
+    const own = new URL(baseURL!).hostname;
     const external: string[] = [];
     page.on('request', (r) => {
       const url = new URL(r.url());
-      if (!['localhost', '127.0.0.1'].includes(url.hostname)) external.push(r.url());
+      if (url.hostname !== own && !['localhost', '127.0.0.1'].includes(url.hostname)) {
+        external.push(r.url());
+      }
     });
     await page.goto('/', { waitUntil: 'networkidle' });
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));

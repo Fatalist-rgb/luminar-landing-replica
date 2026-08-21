@@ -27,3 +27,5 @@ research/img-original/
 .DS_Store
 *.pem
 npm-debug.log*
+
+.vercel
