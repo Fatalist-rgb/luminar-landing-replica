@@ -29,3 +29,4 @@ research/img-original/
 npm-debug.log*
 
 .vercel
+.env*

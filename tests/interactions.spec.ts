@@ -2,9 +2,21 @@ import { test, expect, type Page } from '@playwright/test';
 
 const isMobile = (page: Page) => page.viewportSize()!.width < 1024;
 
+/**
+ * Ждём завершения гидратации: до неё таймер отрисован заглушкой «00d»,
+ * а обработчики кликов ещё не навешены.
+ */
+async function waitForHydration(page: Page) {
+  await expect
+    .poll(async () => (await page.locator('[role="timer"]').first().innerText()).replace(/\s/g, ''), {
+      timeout: 15_000,
+    })
+    .not.toBe('00d:00h:00m:00s');
+}
+
 test.beforeEach(async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
-  await page.waitForTimeout(400);
+  await waitForHydration(page);
 });
 
 test.describe('Содержимое страницы', () => {

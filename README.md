@@ -1,5 +1,7 @@
 # Luminar Landing — копия одностраничного сайта
 
+**Живой сайт: https://luminar-landing-replica.vercel.app**
+
 Пиксель-ориентированная копия лендинга [skylum.com/luminar](https://skylum.com/luminar),
 выполненная как тестовое задание. Воспроизведены все 14 секций оригинала, адаптивность и
 интерактив: мега-меню, обратный отсчёт акции, переключаемые превью возможностей, before/after
@@ -97,13 +99,22 @@ research/                    эталонные скриншоты оригин�
 
 ## Результаты проверок
 
+Все цифры сняты с production-сборки на https://luminar-landing-replica.vercel.app
+
 | Проверка | Результат |
 | --- | --- |
-| Playwright | 47 тестов пройдено (интерактивы, таймеры, адаптивность 320–1920 px) |
-| Lighthouse mobile | Performance **88**, Accessibility **97**, Best Practices **96**, SEO **100** |
-| CLS | 0.002 |
+| Playwright | 47 тестов пройдено на проде (интерактивы, таймеры, адаптивность 320–1920 px) |
+| Lighthouse mobile | Performance **92**, Accessibility **100**, Best Practices **100**, SEO **100** |
+| CLS | 0 |
+| LCP / FCP / TBT | 3.3 s / 1.2 s / 50 ms |
 | Сторонние запросы в проде | отсутствуют |
 | TypeScript / ESLint | без ошибок |
+
+Прогнать тесты против прода можно так:
+
+```bash
+BASE_URL=https://luminar-landing-replica.vercel.app npx playwright test
+```
 
 ## Отличия от оригинала
 
