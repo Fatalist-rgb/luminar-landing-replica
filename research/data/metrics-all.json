@@ -1,0 +1,164 @@
+{
+ "original": {
+  "hero": {
+   "top": 0,
+   "h": 1366,
+   "title": "Get gorgeous photos in Luminar. Save up to 5",
+   "titleFs": "50px"
+  },
+  "df": {
+   "top": 1366,
+   "h": 995,
+   "title": "Discover Luminar on Desktop possibilities",
+   "titleFs": "42px"
+  },
+  "banner": {
+   "top": 2361,
+   "h": 986,
+   "title": "Choose once, edit forever. Unlock easy editi",
+   "titleFs": "48px"
+  },
+  "reasons": {
+   "top": 3347,
+   "h": 1411,
+   "title": "5 reasons why Luminar is the best photo edit",
+   "titleFs": "48px"
+  },
+  "capabilities": {
+   "top": 4758,
+   "h": 617,
+   "title": "Discover all capabilities of Luminar on Desk",
+   "titleFs": "48px"
+  },
+  "protools": {
+   "top": 5375,
+   "h": 1144,
+   "title": "The ultimate photo quality toolkit",
+   "titleFs": "40px"
+  },
+  "spectacular": {
+   "top": 6518,
+   "h": 702,
+   "title": "Just 4 steps to spectacular results",
+   "titleFs": "40px"
+  },
+  "retouch": {
+   "top": 7220,
+   "h": 702,
+   "title": "Retouch portrait like a pro in four steps",
+   "titleFs": "40px"
+  },
+  "photoshoot": {
+   "top": 7922,
+   "h": 764,
+   "title": "Edit a whole photoshoot in one click",
+   "titleFs": "40px"
+  },
+  "bottom": {
+   "top": 8686,
+   "h": 980,
+   "title": "Stunning results, now with up to 50% OFF",
+   "titleFs": "40px"
+  },
+  "faq": {
+   "top": 9666,
+   "h": 1041,
+   "title": "Frequently Asked Questions",
+   "titleFs": "24px"
+  },
+  "requirements": {
+   "top": 10708,
+   "h": 111,
+   "title": "",
+   "titleFs": null
+  },
+  "footer": {
+   "top": 10818,
+   "h": 630,
+   "title": "",
+   "titleFs": null
+  },
+  "__doc": 11448
+ },
+ "replica": {
+  "hero": {
+   "top": 0,
+   "h": 1368,
+   "title": "Get gorgeous photos in Luminar. Save up to 5",
+   "titleFs": "50px"
+  },
+  "df": {
+   "top": 1368,
+   "h": 988,
+   "title": "Discover Luminar on Desktop possibilities",
+   "titleFs": "42px"
+  },
+  "banner": {
+   "top": 2356,
+   "h": 912,
+   "title": "Choose once, edit forever. Unlock easy editi",
+   "titleFs": "48px"
+  },
+  "reasons": {
+   "top": 3268,
+   "h": 1320,
+   "title": "5 reasons why Luminar is the best photo edit",
+   "titleFs": "48px"
+  },
+  "capabilities": {
+   "top": 4588,
+   "h": 592,
+   "title": "Discover all capabilities of Luminar on Desk",
+   "titleFs": "48px"
+  },
+  "protools": {
+   "top": 5181,
+   "h": 1115,
+   "title": "The ultimate photo quality toolkit",
+   "titleFs": "40px"
+  },
+  "spectacular": {
+   "top": 6296,
+   "h": 715,
+   "title": "Just 4 steps to spectacular results",
+   "titleFs": "40px"
+  },
+  "retouch": {
+   "top": 7011,
+   "h": 715,
+   "title": "Retouch portrait like a pro in four steps",
+   "titleFs": "40px"
+  },
+  "photoshoot": {
+   "top": 7726,
+   "h": 686,
+   "title": "Edit a whole photoshoot in one click",
+   "titleFs": "40px"
+  },
+  "bottom": {
+   "top": 8413,
+   "h": 1006,
+   "title": "Stunning results, now with up to 50% OFF",
+   "titleFs": "40px"
+  },
+  "faq": {
+   "top": 9419,
+   "h": 1061,
+   "title": "Frequently Asked Questions",
+   "titleFs": "42px"
+  },
+  "requirements": {
+   "top": 10479,
+   "h": 97,
+   "title": "App Requirements",
+   "titleFs": "20px"
+  },
+  "footer": {
+   "top": 10576,
+   "h": 627,
+   "title": "SKYLUM PRODUCTS",
+   "titleFs": "13px"
+  },
+  "__doc": 11204
+ }
+}

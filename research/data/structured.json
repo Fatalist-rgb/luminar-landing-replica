@@ -1,0 +1,1064 @@
+{
+ "header": {
+  "rowsCount": 1,
+  "row1": [
+   {
+    "t": "",
+    "href": "/",
+    "cls": ""
+   },
+   {
+    "t": "Luminar on Desktop",
+    "href": "/luminar",
+    "cls": "sl-text menu__item-link menu__item-luminar_on_desk"
+   },
+   {
+    "t": "",
+    "href": "//marketplace.skylum.com",
+    "cls": "menu__sub-menu-link"
+   },
+   {
+    "t": "Overview",
+    "href": "/luminar",
+    "cls": "sl-text menu__item-link menu__item-overview is-act"
+   },
+   {
+    "t": "Bokeh AI",
+    "href": "/luminar/bokeh-effect",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Face AI",
+    "href": "/luminar/face-ai-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "SkinAI",
+    "href": "/luminar/skin-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "AI Assistant",
+    "href": "/luminar/ai-assistant",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Crossdevice",
+    "href": "/luminar/crossdevice",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Photo Restoration",
+    "href": "/luminar/photo-restoration",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Light Depth",
+    "href": "/luminar/light-depth",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Color Transfer",
+    "href": "/luminar/color-transfer",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "EnhanceAI",
+    "href": "/luminar/enhance-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Erase",
+    "href": "/erase-objects",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "AI Masking",
+    "href": "/ai-photo-masking",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Layers",
+    "href": "/luminar/ai-layer-mask",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Portrait Background",
+    "href": "/portrait-background-removal",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "SkyAI",
+    "href": "/luminar/sky-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "StructureAI",
+    "href": "/luminar/structure-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Supercontrast",
+    "href": "/luminar/supercontrast",
+    "cls": " menu__sub-item-link"
+   }
+  ],
+  "megaMenus": [
+   {
+    "cls": "sl-text menu__item-link menu__item-luminar_on_desktop is-act",
+    "text": "Luminar on Desktop"
+   },
+   {
+    "cls": "menu__sub-menu-wrap menu__sub-menu-wrap_col js-menu-animatio",
+    "text": "Overview Features Pricing What’s new"
+   },
+   {
+    "cls": "sl-text menu__item-link menu__item-features  js-header-apert",
+    "text": "Features"
+   },
+   {
+    "cls": "menu__sub-menu-wrap menu__sub-menu-wrap_col js-menu-animatio",
+    "text": "Features Bokeh AI Face AI SkinAI AI Assistant Crossdevice Photo Restoration Light Depth Color Transfer EnhanceAI Erase AI Masking Layers Portrait Background SkyAI StructureAI Supercontrast CompositionAI Studio Light Neon&Glow GenErase GenSwap GenExpand Water EnhancerAI Twilight EnhancerAI See All 30+ Features Use Cases Landscape Photography Wildlife Photography Family Photography Wedding Photograp"
+   },
+   {
+    "cls": "sl-text menu__item-link menu__item-more  js-header-aperty-dr",
+    "text": "More"
+   },
+   {
+    "cls": "menu__sub-menu-wrap menu__sub-menu-wrap_col js-menu-animatio",
+    "text": "Company About Skylum Careers Newsroom For Business Skylum for Business Volume Licensing Reseller Program Other Ambassadors Affiliate Program Need help?"
+   },
+   {
+    "cls": "locales__current-wrap js-header-aperty-dropdown-title",
+    "text": "English"
+   },
+   {
+    "cls": "menu__sub-menu-wrap menu__sub-menu-wrap_loc js-header-aperty",
+    "text": "EnglishDeutsch日本語FrançaisEspañolItalianoNederlandsČeština한국어PolskiУкраїнська简体中文繁體中文"
+   }
+  ]
+ },
+ "dfGroups": [
+  {
+   "group": "IMPROVED",
+   "items": [
+    "Remove distractions",
+    "Expand your scene",
+    "Replace objects seamlessly"
+   ]
+  }
+ ],
+ "dfMediaFiles": [
+  "sparkles.svg",
+  "enhance-new.mp4",
+  "brightness.svg",
+  "develop-new.mp4",
+  "Smooth.svg",
+  "skin-new-2.mp4",
+  "restoration.svg",
+  "restoration-new.mp4",
+  "crop.svg",
+  "composition-new.mp4",
+  "histogram.svg",
+  "Supersharp-new.mp4",
+  "pattern.svg",
+  "noiseless-new.mp4",
+  "erase.svg",
+  "gen-erase-new.mp4",
+  "light-depth.svg",
+  "light-depth-new.mp4",
+  "cloud.svg",
+  "sky-new.mp4",
+  "crossdevice.svg",
+  "2ndblockcrossdevice.mp4",
+  "spaces.svg",
+  "2ndblockSpaces.mp4",
+  "cluster.svg",
+  "structure-new.mp4",
+  "contrast.svg",
+  "supercontrast-new.mp4",
+  "color-balance.svg",
+  "color-new.mp4",
+  "flame.svg",
+  "dodge-burn-new.mp4",
+  "image.svg",
+  "golden-hour-new.mp4",
+  "wave.svg",
+  "atmosphere-new.mp4",
+  "dehaze-new.mp4",
+  "sun.svg",
+  "sunrays-new.mp4",
+  "sunset.svg",
+  "twilight-enhancer-new.mp4",
+  "drip.svg",
+  "water-enhancer-new.mp4",
+  "expand.svg",
+  "gen-expand-new.mp4",
+  "swap.svg",
+  "gen-swap-new.mp4",
+  "resize.svg",
+  "upscale-new.mp4",
+  "sparkles-2.svg",
+  "magic-light-new.mp4",
+  "flower.svg",
+  "mood-new.mp4",
+  "sunset-2.svg",
+  "neon-glow-new.mp4",
+  "filmstrip.svg",
+  "film-grain-new.mp4",
+  "layers.svg",
+  "overlays-new.mp4",
+  "bokeh-effect.svg",
+  "bokeh-new.mp4",
+  "Enhance.svg",
+  "face-new-2.mp4",
+  "Sculpt.svg",
+  "body-new.mp4",
+  "Blur.svg",
+  "portrait-bokeh-new.mp4",
+  "lighting.svg",
+  "studio-light-new.mp4",
+  "Replace.svg",
+  "portrait-background-new.mp4",
+  "Brighten.svg",
+  "hight-key-new.mp4",
+  "hdr.svg",
+  "hdr-merge-new.mp4",
+  "panorama.svg",
+  "panorama-new.mp4",
+  "focus.svg",
+  "focus-new.mp4"
+ ],
+ "psSlides": [
+  {
+   "title": "Upscale",
+   "desc": "Enlarge your photos while preserving every detail and texture.",
+   "btns": [
+    "Original",
+    "Apply Upscale"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-1-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-1-min.jpg\")"
+   ]
+  },
+  {
+   "title": "Supersharp AI",
+   "desc": "Restore perfect sharpness and bring out crisp, defined edges.",
+   "btns": [
+    "Original",
+    "Apply Supersharp AI"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-2-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-2-min.jpg\")"
+   ]
+  },
+  {
+   "title": "Noiseless AI",
+   "desc": "Effortlessly remove digital noise for clean, high-quality images.",
+   "btns": [
+    "Original",
+    "Apply Noiseless AI"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-3-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-3-min.jpg\")"
+   ]
+  },
+  {
+   "title": "Focus Stacking",
+   "desc": "Combine multiple shots to achieve flawless focus throughout the frame.",
+   "btns": [
+    "Original",
+    "Apply Focus Stacking"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-4-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-4-min.jpg\")"
+   ]
+  },
+  {
+   "title": "HDR Merge",
+   "desc": "Blend different exposures to reveal balanced light and vivid tones.",
+   "btns": [
+    "Original",
+    "Apply HDR Merge"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-5-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-5-min.jpg\")"
+   ]
+  },
+  {
+   "title": "Panorama Stitching",
+   "desc": "Seamlessly merge photos into stunning wide-angle scenes.",
+   "btns": [
+    "Original",
+    "Apply Panorama Stitching"
+   ],
+   "imgs": [],
+   "bgs": [
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-6-min.jpg\")",
+    "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-6-min.jpg\")"
+   ]
+  }
+ ],
+ "spectacular": {
+  "title": "Just 4 steps to spectacular results",
+  "desc": "Transform any photo from ordinary to breathtaking in just a few clicks. With intelligent AI tools guiding every step, you’ll enhance, refine, and perfect your image effortlessly.",
+  "steps": [
+   "Original",
+   "GenErase",
+   "SkyAI",
+   "Color",
+   "Sunrays"
+  ],
+  "imgs": [],
+  "bgs": [
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-before-img-min.jpg\")",
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-color-min.jpg\")"
+  ]
+ },
+ "retouch": {
+  "title": "Retouch portrait like a pro in four steps",
+  "desc": "Bring out the best in every face. Enhance skin, refine light, and add depth with intuitive tools that do the hard work for you.",
+  "steps": [
+   "Original",
+   "SkinAI",
+   "FaceAI",
+   "Mood",
+   "Develop"
+  ],
+  "imgs": [],
+  "bgs": [
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait0.jpg?q=75&f=webp\")",
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait3-mood.jpg?q=75&f=webp\")"
+  ]
+ },
+ "photoshoot": {
+  "title": "Edit a whole photoshoot in one click",
+  "desc": "Save time with batch editing and a rich selection of presets that keep every photo looking stunning.",
+  "btn": "EDIT ALL PHOTOS AT ONCE",
+  "imgs": [
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+    "cls": "photoshoot__start-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+    "cls": "photoshoot__start-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+    "cls": "photoshoot__start-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+    "cls": "btn-wrap__try"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-1.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-2.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-3.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-4.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-5.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+    "cls": "photoshoot__result-controls_try"
+   }
+  ]
+ },
+ "faqQuestions": [],
+ "faq": [
+  {
+   "q": "What is Luminar for Desktop?",
+   "a": "Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease. It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable."
+  },
+  {
+   "q": "How do I get Luminar for Desktop?",
+   "a": "You can buy Luminar for Desktop on this page and download your photo editor from the My Account page. This software to edit photos is available for macOS and Windows as an application and plug-in."
+  },
+  {
+   "q": "What is the difference between Luminar plans?",
+   "a": "Desktop Only License. By purchasing the Desktop Only perpetual license, you will get a license that gives you the right to own Luminar on your computer forever with all previous upgrades included. With this plan, you get: Perpetual license for Luminar for Desktop on 2 devices (macOS&Windows); Continuous access to updates, bug fixes, improvements, and some new features. But big upgrades may require extra upgrade payments; Lifetime access to the Fall Upgrade 2026 (including Crop 2.0, Atmosphere 2.0, AI Assistant 2.0, Enhance AI 2.0, and more — coming Fall 2026); 1-year access to the AI tools — Restoration, GenErase, GenSwap, GenExpand, AI Assistant; Full access to existing features: instant access to all tools released up to the date of purchase. All Platforms License includes everything in the Desktop Only plan, plus: Perpetual access to Luminar Mobile on 3 devices; Perpetual access to Luminar Web on 3 devices (coming Fall 2026); Luminar Ecosystem with cross-device editing (mobile to desktop & mobile to web); Access to Spaces (web galleries). Max License is our most comprehensive perpetual plan for complete creative freedom. Includes everything in the All Platforms License, plus Luminar Prime: Full access to all new features added every year — all tools that are released during the active subscription period will remain yours forever; 1 year of access to our ever-growing Library of Assets, which includes 2900+ presets, 490+ LUTs, 490+ overlays, 70+ skies, and 24+ creative courses. Note: AI tools and Library of Assets operate on an auto-renewal model with a Luminar Prime after 365 days."
+  },
+  {
+   "q": "Can I start editing on one device and finish on another?",
+   "a": "Yes. Cross-device editing is included with both the All Platforms and Max licenses. You can begin editing on your mobile phone and pick up right where you left off on your desktop or tablet. Currently, it works one-way (Mobile → Desktop). With the upcoming release of Luminar for Web, expanded syncing will allow you to: Edit seamlessly between Mobile and Web (Mobile ↔ Web); Transfer your work from Web to Desktop (Web → Desktop)."
+  },
+  {
+   "q": "How many devices can I use Luminar for Desktop on?",
+   "a": "You can use Luminar for Desktop lifetime or subscription plan on 2 devices. Two seats allows you to install and activate Luminar for Desktop on two devices at once, regardless of their operating system. For example, you can use one seat to activate Luminar for Desktop on a Mac and the other one to activate Luminar for Desktop on a Windows computer, or you can use both seats for your Windows or macOS computers. Any combination works! Moreover, you can always manage your activations in your Skylum Account. You are able to add even more seats in your Skylum Account if you have multiple computers or want to share your license with people who need access. Are you changing computers or upgrading your device? You can reset a license from your old machine at no cost and activate that license on your new device. Just log in to your Skylum account or do it directions in app during the installation process on a new device. Learn more"
+  },
+  {
+   "q": "Do you offer educational and military discounts?",
+   "a": "Educational and military discounts are available starting from the official release date and are calculated from the regular sale price. To secure the special price, click here. If you own a previous version of Luminar or Aurora HDR, we also provide a loyalty discount. Click here to redeem it."
+  },
+  {
+   "q": "What does a photo editor do?",
+   "a": "A photo editor is a software responsible for enhancing and manipulating digital images to achieve a desired visual outcome. Their primary function is to improve the overall quality and appearance of photographs using image enhancement, restoration, composition, and other image manipulations."
+  },
+  {
+   "q": "How to use Luminar for Desktop?",
+   "a": "Luminar for Desktop is a convenient photo editor that allows you to easily edit images. After installing it, you can import images, sort them in the Catalog, apply one-click Presets, edit your photo with tools and layers, and then save and export photos for sharing."
+  },
+  {
+   "q": "How to install Luminar for Desktop?",
+   "a": "After purchasing Luminar for Desktop, you will be emailed all the instructions on how to quickly install Luminar and start using it."
+  },
+  {
+   "q": "What is the latest version of Luminar for Desktop?",
+   "a": "You can check the latest version of Luminar for Desktop and what improvements it has here."
+  }
+ ],
+ "requirements": {
+  "title": "App Requirements",
+  "toggles": [
+   "SHOW MORE",
+   "Show More Show Less"
+  ],
+  "rows": [
+   "App Requirements SHOW MORE",
+   "macOS",
+   "Mac Model MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini, early 2010 or newer",
+   "Processor CPU Intel® Core™ i5 8 Gen or better",
+   "OS version macOS 12.0 or higher.",
+   "RAM Memory 8 GB RAM or more (16+ GB RAM is recommended)",
+   "Disk space Hard disk 10 GB free space; SSD for best performance",
+   "Display 1280x768 size or better",
+   "Windows",
+   "Hardware Windows-based hardware PC with mouse or similar input device",
+   "Processor CPU Intel® Core™ i5 8 Gen or better, AMD Ryzen™ 5 or better",
+   "OS version 10 version 1909 or higher (only 64-bit OS)",
+   "RAM Memory 8 GB RAM or more (16+ GB RAM is recommended)",
+   "Disk space Hard disk 10 GB free space; SSD for best performance",
+   "Display 1280x768 size or better",
+   "Graphics Open GL 3.3 or later compatible graphics card"
+  ]
+ },
+ "footer": {
+  "cols": [
+   {
+    "head": "SKYLUM PRODUCTS",
+    "links": [
+     {
+      "t": "Overview",
+      "href": "/luminar"
+     },
+     {
+      "t": "Pricing",
+      "href": "/luminar/pricing"
+     },
+     {
+      "t": "Features",
+      "href": ""
+     },
+     {
+      "t": "Pro Tools",
+      "href": ""
+     },
+     {
+      "t": "Use Cases",
+      "href": ""
+     },
+     {
+      "t": "Alternatives",
+      "href": ""
+     },
+     {
+      "t": "Trial",
+      "href": "/luminar-trial"
+     },
+     {
+      "t": "Discounts",
+      "href": "/luminar-discount"
+     },
+     {
+      "t": "Luminar on Desktop Beta",
+      "href": "/l/join-beta"
+     },
+     {
+      "t": "Overview",
+      "href": "/luminar-mobile"
+     },
+     {
+      "t": "Luminar for iPad",
+      "href": "/luminar-for-ipad"
+     },
+     {
+      "t": "Luminar for iPhone",
+      "href": "/luminar-for-iphone"
+     },
+     {
+      "t": "Luminar for Vision Pro",
+      "href": "/luminar-for-vision-pro"
+     },
+     {
+      "t": "Luminar on Mobile User Guide",
+      "href": "https://support.skylum.com/luminar_mobile"
+     },
+     {
+      "t": "Alternatives",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "head": "SKYLUM PRODUCTS",
+    "links": [
+     {
+      "t": "Overview",
+      "href": "/luminar"
+     },
+     {
+      "t": "Pricing",
+      "href": "/luminar/pricing"
+     },
+     {
+      "t": "Features",
+      "href": ""
+     },
+     {
+      "t": "Pro Tools",
+      "href": ""
+     },
+     {
+      "t": "Use Cases",
+      "href": ""
+     },
+     {
+      "t": "Alternatives",
+      "href": ""
+     },
+     {
+      "t": "Trial",
+      "href": "/luminar-trial"
+     },
+     {
+      "t": "Discounts",
+      "href": "/luminar-discount"
+     },
+     {
+      "t": "Luminar on Desktop Beta",
+      "href": "/l/join-beta"
+     },
+     {
+      "t": "Overview",
+      "href": "/luminar-mobile"
+     },
+     {
+      "t": "Luminar for iPad",
+      "href": "/luminar-for-ipad"
+     },
+     {
+      "t": "Luminar for iPhone",
+      "href": "/luminar-for-iphone"
+     },
+     {
+      "t": "Luminar for Vision Pro",
+      "href": "/luminar-for-vision-pro"
+     },
+     {
+      "t": "Luminar on Mobile User Guide",
+      "href": "https://support.skylum.com/luminar_mobile"
+     },
+     {
+      "t": "Alternatives",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "head": "MARKETPLACE",
+    "links": [
+     {
+      "t": "Luminar Presets",
+      "href": "https://marketplace.skylum.com/luminar-presets"
+     },
+     {
+      "t": "Lightroom Presets",
+      "href": "https://marketplace.skylum.com/lightroom-presets"
+     },
+     {
+      "t": "Luminar Neo Bundles",
+      "href": "https://marketplace.skylum.com/bundles?filters[compatibility]=3"
+     },
+     {
+      "t": "Luminar Neo LUTs",
+      "href": "https://marketplace.skylum.com/luts?filters[compatibility]=3"
+     },
+     {
+      "t": "Aperty LUTs",
+      "href": "https://marketplace.skylum.com/luts?filters[compatibility]=8"
+     },
+     {
+      "t": "Textures",
+      "href": "https://marketplace.skylum.com/textures"
+     },
+     {
+      "t": "Sky Objects",
+      "href": "https://marketplace.skylum.com/sky-objects"
+     },
+     {
+      "t": "Backgrounds",
+      "href": "https://marketplace.skylum.com/backgrounds"
+     },
+     {
+      "t": "Other software",
+      "href": "https://marketplace.skylum.com/software"
+     },
+     {
+      "t": "X Membership",
+      "href": "/x-membership"
+     },
+     {
+      "t": "Skies",
+      "href": "https://marketplace.skylum.com/skies"
+     },
+     {
+      "t": "E-boooks",
+      "href": "https://marketplace.skylum.com/e-books"
+     },
+     {
+      "t": "Courses",
+      "href": "https://marketplace.skylum.com/classes"
+     }
+    ]
+   },
+   {
+    "head": "MARKETPLACE",
+    "links": [
+     {
+      "t": "Luminar Presets",
+      "href": "https://marketplace.skylum.com/luminar-presets"
+     },
+     {
+      "t": "Lightroom Presets",
+      "href": "https://marketplace.skylum.com/lightroom-presets"
+     },
+     {
+      "t": "Luminar Neo Bundles",
+      "href": "https://marketplace.skylum.com/bundles?filters[compatibility]=3"
+     },
+     {
+      "t": "Luminar Neo LUTs",
+      "href": "https://marketplace.skylum.com/luts?filters[compatibility]=3"
+     },
+     {
+      "t": "Aperty LUTs",
+      "href": "https://marketplace.skylum.com/luts?filters[compatibility]=8"
+     },
+     {
+      "t": "Textures",
+      "href": "https://marketplace.skylum.com/textures"
+     },
+     {
+      "t": "Sky Objects",
+      "href": "https://marketplace.skylum.com/sky-objects"
+     },
+     {
+      "t": "Backgrounds",
+      "href": "https://marketplace.skylum.com/backgrounds"
+     },
+     {
+      "t": "Other software",
+      "href": "https://marketplace.skylum.com/software"
+     },
+     {
+      "t": "X Membership",
+      "href": "/x-membership"
+     },
+     {
+      "t": "Skies",
+      "href": "https://marketplace.skylum.com/skies"
+     },
+     {
+      "t": "E-boooks",
+      "href": "https://marketplace.skylum.com/e-books"
+     },
+     {
+      "t": "Courses",
+      "href": "https://marketplace.skylum.com/classes"
+     }
+    ]
+   },
+   {
+    "head": "COMPANY",
+    "links": [
+     {
+      "t": "About Skylum",
+      "href": "/about"
+     },
+     {
+      "t": "Careers",
+      "href": "https://skylum.com/careers"
+     },
+     {
+      "t": "Ambassadors",
+      "href": "https://skylum.com/ambassadors"
+     },
+     {
+      "t": "Affiliate Program",
+      "href": "/affiliates"
+     },
+     {
+      "t": "Terms of use",
+      "href": "https://skylum.com/terms-of-use"
+     },
+     {
+      "t": "Privacy Policy",
+      "href": "https://skylum.com/legal"
+     },
+     {
+      "t": "AI Guidelines",
+      "href": "https://skylum.com/ai-guidelines-policy"
+     },
+     {
+      "t": "Contact Us",
+      "href": "/contact-us"
+     }
+    ]
+   },
+   {
+    "head": "COMPANY",
+    "links": [
+     {
+      "t": "About Skylum",
+      "href": "/about"
+     },
+     {
+      "t": "Careers",
+      "href": "https://skylum.com/careers"
+     },
+     {
+      "t": "Ambassadors",
+      "href": "https://skylum.com/ambassadors"
+     },
+     {
+      "t": "Affiliate Program",
+      "href": "/affiliates"
+     },
+     {
+      "t": "Terms of use",
+      "href": "https://skylum.com/terms-of-use"
+     },
+     {
+      "t": "Privacy Policy",
+      "href": "https://skylum.com/legal"
+     },
+     {
+      "t": "AI Guidelines",
+      "href": "https://skylum.com/ai-guidelines-policy"
+     },
+     {
+      "t": "Contact Us",
+      "href": "/contact-us"
+     }
+    ]
+   },
+   {
+    "head": "HELP",
+    "links": [
+     {
+      "t": "Contact Support",
+      "href": "https://skylum.com/support"
+     },
+     {
+      "t": "FAQs",
+      "href": "https://skylum.com/faq/luminar-neo"
+     },
+     {
+      "t": "User Guide",
+      "href": "https://support.skylum.com/"
+     },
+     {
+      "t": "Change Choice on Cookies",
+      "href": ""
+     },
+     {
+      "t": "Skylum for Business",
+      "href": "https://skylum.com/skylum-for-business"
+     },
+     {
+      "t": "Volume Licensing",
+      "href": "https://skylum.com/volume-licensing"
+     },
+     {
+      "t": "Reseller Program",
+      "href": "/resellers"
+     }
+    ]
+   },
+   {
+    "head": "HELP",
+    "links": [
+     {
+      "t": "Contact Support",
+      "href": "https://skylum.com/support"
+     },
+     {
+      "t": "FAQs",
+      "href": "https://skylum.com/faq/luminar-neo"
+     },
+     {
+      "t": "User Guide",
+      "href": "https://support.skylum.com/"
+     },
+     {
+      "t": "Change Choice on Cookies",
+      "href": ""
+     },
+     {
+      "t": "Skylum for Business",
+      "href": "https://skylum.com/skylum-for-business"
+     },
+     {
+      "t": "Volume Licensing",
+      "href": "https://skylum.com/volume-licensing"
+     },
+     {
+      "t": "Reseller Program",
+      "href": "/resellers"
+     }
+    ]
+   },
+   {
+    "head": "LEARN MORE",
+    "links": [
+     {
+      "t": "Blog",
+      "href": "https://blog.skylum.com/"
+     },
+     {
+      "t": "How To",
+      "href": "/how-to"
+     },
+     {
+      "t": "Newsroom",
+      "href": "https://skylum.com/newsroom"
+     },
+     {
+      "t": "Our community",
+      "href": "/luminar-community"
+     },
+     {
+      "t": "Luminar for Creators",
+      "href": "/luminar-for-creators"
+     },
+     {
+      "t": "Earn with Luminar Marketplace",
+      "href": "/welcome-artists"
+     },
+     {
+      "t": "Manual Mode in Photography",
+      "href": "https://blog.skylum.com/photography-cheat-sheet-manual-mode-camera-settings/"
+     },
+     {
+      "t": "How Much Do Photographers Charge",
+      "href": "https://blog.skylum.com/photography-prices-for-beginners/"
+     },
+     {
+      "t": "Best Free Photoshop Alternatives",
+      "href": "https://blog.skylum.com/best-free-photoshop-alternatives/"
+     },
+     {
+      "t": "Fix Blurry Pictures On iPhone",
+      "href": "https://blog.skylum.com/how-to-fix-blurry-pictures-on-iphone/"
+     },
+     {
+      "t": "How Big Is 8x10 Photo Size",
+      "href": "https://blog.skylum.com/how-big-is-8x10/"
+     },
+     {
+      "t": "Stuck Pixel vs Dead Pixel",
+      "href": "https://blog.skylum.com/stuck-pixel-vs-dead-pixel/"
+     },
+     {
+      "t": "Free Photoshop Plugins for Photographers",
+      "href": "https://blog.skylum.com/best-free-photoshop-plugins-to-improve-your-creative-work/"
+     },
+     {
+      "t": "Landscape vs Portrait orientation",
+      "href": "https://blog.skylum.com/landscape-vs-portrait-orientation/"
+     },
+     {
+      "t": "How To Get Digital Camera Photos On Phone",
+      "href": "https://blog.skylum.com/how-to-transfer-photos-from-camera-to-phone/"
+     }
+    ]
+   },
+   {
+    "head": "LEARN MORE",
+    "links": [
+     {
+      "t": "Blog",
+      "href": "https://blog.skylum.com/"
+     },
+     {
+      "t": "How To",
+      "href": "/how-to"
+     },
+     {
+      "t": "Newsroom",
+      "href": "https://skylum.com/newsroom"
+     },
+     {
+      "t": "Our community",
+      "href": "/luminar-community"
+     },
+     {
+      "t": "Luminar for Creators",
+      "href": "/luminar-for-creators"
+     },
+     {
+      "t": "Earn with Luminar Marketplace",
+      "href": "/welcome-artists"
+     },
+     {
+      "t": "Manual Mode in Photography",
+      "href": "https://blog.skylum.com/photography-cheat-sheet-manual-mode-camera-settings/"
+     },
+     {
+      "t": "How Much Do Photographers Charge",
+      "href": "https://blog.skylum.com/photography-prices-for-beginners/"
+     },
+     {
+      "t": "Best Free Photoshop Alternatives",
+      "href": "https://blog.skylum.com/best-free-photoshop-alternatives/"
+     },
+     {
+      "t": "Fix Blurry Pictures On iPhone",
+      "href": "https://blog.skylum.com/how-to-fix-blurry-pictures-on-iphone/"
+     },
+     {
+      "t": "How Big Is 8x10 Photo Size",
+      "href": "https://blog.skylum.com/how-big-is-8x10/"
+     },
+     {
+      "t": "Stuck Pixel vs Dead Pixel",
+      "href": "https://blog.skylum.com/stuck-pixel-vs-dead-pixel/"
+     },
+     {
+      "t": "Free Photoshop Plugins for Photographers",
+      "href": "https://blog.skylum.com/best-free-photoshop-plugins-to-improve-your-creative-work/"
+     },
+     {
+      "t": "Landscape vs Portrait orientation",
+      "href": "https://blog.skylum.com/landscape-vs-portrait-orientation/"
+     },
+     {
+      "t": "How To Get Digital Camera Photos On Phone",
+      "href": "https://blog.skylum.com/how-to-transfer-photos-from-camera-to-phone/"
+     }
+    ]
+   }
+  ],
+  "social": [
+   {
+    "href": "https://www.facebook.com/luminarglobal",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-fb-white.svg"
+   },
+   {
+    "href": "https://www.instagram.com/luminar_global/",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-instagram-white.svg"
+   },
+   {
+    "href": "https://www.linkedin.com/company/skylum",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-linkedin-white.svg"
+   },
+   {
+    "href": "https://www.youtube.com/@LuminarGlobal",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-youtube-white.svg"
+   },
+   {
+    "href": "https://x.com/Luminar_Neo",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-twitter-white.svg"
+   },
+   {
+    "href": "https://id.pinterest.com/luminarglobal/",
+    "img": "https://media.macphun.com/img/uploads/uploads/skylum/footer/pinterest.svg"
+   }
+  ],
+  "bottom": "Use cases Landscape Photography Wildlife Photography Family Photography Wedding Photography Newborn Photography Photoediting for Beginners AI Photo Editor Real Estate E-commerce Photography Food Photo"
+ }
+}

@@ -1,0 +1,29 @@
+# зависимости
+node_modules/
+research/node_modules/
+
+# сборка
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# тесты
+test-results/
+playwright-report/
+blob-report/
+.playwright-mcp/
+research/.playwright-mcp/
+
+# оригиналы ассетов до оптимизации (бэкапы, в сборку не идут)
+research/video-original/
+research/img-original/
+
+# окружение и служебное
+.env*
+!.env.example
+.vercel
+.DS_Store
+*.pem
+npm-debug.log*

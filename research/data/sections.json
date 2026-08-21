@@ -1,0 +1,3240 @@
+{
+  "out": {
+    "header": {
+      "selector": "header.header-aperty",
+      "top": 0,
+      "height": 54,
+      "html_len": 44732,
+      "text": "Luminar on Desktop Overview Features Pricing What’s new Luminar on Mobile Aperty Marketplace Blog More Log In",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/SKYLUM_logo_white.svg",
+          "alt": "Skylum",
+          "w": 65,
+          "h": 10,
+          "dw": 65,
+          "dh": 10,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "",
+          "href": "/"
+        },
+        {
+          "t": "Luminar on Desktop",
+          "href": "/luminar"
+        },
+        {
+          "t": "",
+          "href": "//marketplace.skylum.com"
+        },
+        {
+          "t": "Overview",
+          "href": "/luminar"
+        },
+        {
+          "t": "Bokeh AI",
+          "href": "/luminar/bokeh-effect"
+        },
+        {
+          "t": "Face AI",
+          "href": "/luminar/face-ai-editor"
+        },
+        {
+          "t": "SkinAI",
+          "href": "/luminar/skin-ai"
+        },
+        {
+          "t": "AI Assistant",
+          "href": "/luminar/ai-assistant"
+        },
+        {
+          "t": "Crossdevice",
+          "href": "/luminar/crossdevice"
+        },
+        {
+          "t": "Photo Restoration",
+          "href": "/luminar/photo-restoration"
+        },
+        {
+          "t": "Light Depth",
+          "href": "/luminar/light-depth"
+        },
+        {
+          "t": "Color Transfer",
+          "href": "/luminar/color-transfer"
+        },
+        {
+          "t": "EnhanceAI",
+          "href": "/luminar/enhance-ai"
+        },
+        {
+          "t": "Erase",
+          "href": "/erase-objects"
+        },
+        {
+          "t": "AI Masking",
+          "href": "/ai-photo-masking"
+        },
+        {
+          "t": "Layers",
+          "href": "/luminar/ai-layer-mask"
+        },
+        {
+          "t": "Portrait Background",
+          "href": "/portrait-background-removal"
+        },
+        {
+          "t": "SkyAI",
+          "href": "/luminar/sky-ai"
+        },
+        {
+          "t": "StructureAI",
+          "href": "/luminar/structure-ai"
+        },
+        {
+          "t": "Supercontrast",
+          "href": "/luminar/supercontrast"
+        },
+        {
+          "t": "CompositionAI",
+          "href": "/luminar/composition-ai"
+        },
+        {
+          "t": "Studio Light",
+          "href": "/luminar/studio-light"
+        },
+        {
+          "t": "Neon&Glow",
+          "href": "/luminar/neon-glow"
+        },
+        {
+          "t": "GenErase",
+          "href": "/luminar/generase"
+        },
+        {
+          "t": "GenSwap",
+          "href": "/luminar/genswap"
+        },
+        {
+          "t": "GenExpand",
+          "href": "/luminar/genexpand"
+        },
+        {
+          "t": "Water EnhancerAI",
+          "href": "/luminar/water-enhancer"
+        },
+        {
+          "t": "Twilight EnhancerAI",
+          "href": "/luminar/twilight-enhancer"
+        },
+        {
+          "t": "See All 30+ Features",
+          "href": "/product-tour"
+        },
+        {
+          "t": "Landscape Photography",
+          "href": "/landscape-photo-editor"
+        },
+        {
+          "t": "Wildlife Photography",
+          "href": "/wildlife-photography"
+        },
+        {
+          "t": "Family Photography",
+          "href": "/family-photo-editor"
+        },
+        {
+          "t": "Wedding Photography",
+          "href": "/wedding-photo-editor"
+        },
+        {
+          "t": "Newborn Photography",
+          "href": "/newborn-family-photography"
+        },
+        {
+          "t": "Photoediting for beginners",
+          "href": "/photo-editor-for-beginners"
+        },
+        {
+          "t": "AI Photo Editor",
+          "href": "/luminar-ai"
+        },
+        {
+          "t": "Real Estate",
+          "href": "/real-estate"
+        },
+        {
+          "t": "E-commerce Photography",
+          "href": "/ecommerce-photo-editor"
+        },
+        {
+          "t": "Food Photography",
+          "href": "/food-photo-editor"
+        },
+        {
+          "t": "Drone Photography",
+          "href": "/drone-photography-editor"
+        },
+        {
+          "t": "SupersharpAI",
+          "href": "/luminar/supersharp-ai"
+        },
+        {
+          "t": "Focus Stacking",
+          "href": "/luminar/focus-stacking"
+        },
+        {
+          "t": "Background RemovalAI",
+          "href": "/luminar/background-removal-ai"
+        },
+        {
+          "t": "UpscaleAI",
+          "href": "/luminar/upscale-ai"
+        },
+        {
+          "t": "NoiselessAI",
+          "href": "/luminar/noiseless-ai"
+        },
+        {
+          "t": "HDR Merge",
+          "href": "/luminar/hdr-merge"
+        },
+        {
+          "t": "Magic LightAI",
+          "href": "/luminar/magic-light-ai"
+        },
+        {
+          "t": "Panorama Stitching",
+          "href": "/luminar/panorama-stitching"
+        },
+        {
+          "t": "Pricing",
+          "href": "/luminar/pricing"
+        },
+        {
+          "t": "What’s new",
+          "href": "/whats-new/luminar-neo"
+        },
+        {
+          "t": "Luminar on Mobile",
+          "href": "/luminar-mobile"
+        },
+        {
+          "t": "Aperty",
+          "href": "https://aperty.ai"
+        },
+        {
+          "t": "Marketplace",
+          "href": "//marketplace.skylum.com/"
+        },
+        {
+          "t": "Blog",
+          "href": "https://blog.skylum.com"
+        },
+        {
+          "t": "About Skylum",
+          "href": "/about"
+        },
+        {
+          "t": "Careers",
+          "href": "/careers"
+        },
+        {
+          "t": "Newsroom",
+          "href": "/newsroom"
+        },
+        {
+          "t": "Skylum for Business",
+          "href": "/skylum-for-business"
+        },
+        {
+          "t": "Volume Licensing",
+          "href": "/volume-licensing"
+        },
+        {
+          "t": "Reseller Program",
+          "href": "/resellers"
+        }
+      ],
+      "buttons": []
+    },
+    "sticky-bar": {
+      "selector": "section.luminar-neo-fix",
+      "top": -120,
+      "height": 60,
+      "html_len": 2919,
+      "text": "Get Luminar now with a discount, enjoy new features this fall 09d : 23h : 25m : 02s VIEW PLANS",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/luminar-logo-new.svg",
+          "alt": "Luminar Neo",
+          "w": 126,
+          "h": 24,
+          "dw": 126,
+          "dh": 24,
+          "srcset": "",
+          "cls": "luminar-neo-fix__logo"
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "hero": {
+      "selector": "section.hero",
+      "top": 0,
+      "height": 1366,
+      "html_len": 11831,
+      "text": "🔥 Sale up to 50% off Get gorgeous photos in Luminar. Save up to 50% now, enjoy new features this fall One-time purchase 30 days money back guarantee VIEW PLANS 09d : 23h : 25m : 02s Luminar on Desktop , tablet and mobile . Soon on Web.",
+      "images": [],
+      "sources": [
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sum-26-main-video-en.mp4",
+          "type": "video/mp4",
+          "media": ""
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sum-26-main-video-en.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/sum-26-main-video-poster-en.jpg",
+          "loop": true,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        }
+      ],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "df": {
+      "selector": "section.df-section",
+      "top": 1366,
+      "height": 995,
+      "html_len": 160274,
+      "text": "Discover Luminar on Desktop possibilities Level up your photography with Luminar's AI-powered photo editing tools. TOP FEATURES Enhance in seconds Refine every pixel Smooth skin naturally Revive old photos Fix composition Sharpen every detail Denoise with precision Remove distractions Add dimensional lighting Instantly replace skies Edit across devices Share edits in web galleries ESSENTIALS LANDSCAPE GENERATIVE AI IMPROVED IMAGE QUALITY CREATIVE PORTRAIT PHOTO MERGE VIEW PLANS 09d : 23h : 25m : 02s",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/brightness.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Smooth.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/restoration.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crop.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/histogram.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/pattern.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/erase.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/light-depth.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cloud.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crossdevice.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 24,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/spaces.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 22,
+          "dh": 24,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cluster.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/contrast.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crop.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/brightness.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/color-balance.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/flame.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cloud.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/image.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/wave.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/image.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sun.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sunset.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/drip.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/erase.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/expand.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/swap.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/restoration.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/histogram.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/pattern.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/resize.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/light-depth.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles-2.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/flower.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sunset-2.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/filmstrip.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/layers.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/bokeh-effect.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Smooth.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Enhance.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Sculpt.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Blur.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/lighting.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Replace.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Brighten.svg",
+          "alt": "img",
+          "w": 24,
+          "h": 24,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/hdr.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/panorama.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/focus.svg",
+          "alt": "img",
+          "w": 18,
+          "h": 18,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockcrossdevice.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockSpaces.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/structure-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/supercontrast-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/color-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/dodge-burn-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/golden-hour-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/atmosphere-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/dehaze-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sunrays-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/twilight-enhancer-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/water-enhancer-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-expand-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-swap-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/upscale-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/magic-light-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/mood-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/neon-glow-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/film-grain-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/overlays-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/bokeh-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/face-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/body-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-bokeh-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/studio-light-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-background-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/hight-key-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/hdr-merge-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/panorama-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/focus-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockcrossdevice.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockSpaces.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/structure-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/supercontrast-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/color-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/dodge-burn-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/golden-hour-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/atmosphere-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/dehaze-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/sunrays-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/twilight-enhancer-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/water-enhancer-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-expand-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-swap-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/upscale-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/magic-light-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/mood-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/neon-glow-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/film-grain-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/overlays-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/bokeh-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/face-new-2.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/body-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-bokeh-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/studio-light-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-background-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/hight-key-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/hdr-merge-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/panorama-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/focus-new.mp4",
+          "type": "video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"",
+          "media": ""
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Enhanceinseconds-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Refineeverypixel-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/skin-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Reviveoldphotos-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Fixcomposition-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sharpeneverydetail-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Denoisewithprecision-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removedistractions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Adddimensionallighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Instantlyreplaceskies-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockcrossdevice.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/zaglushkaCrossDevice.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockSpaces.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/zaglushkaSpaces.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Enhanceinseconds-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/structure-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Revealhiddendetails-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/supercontrast-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Boostcontast-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Fixcomposition-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Refineeverypixel-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/color-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Improvecolors-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dodge-burn-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Frame2018776740-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Instantlyreplaceskies-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/golden-hour-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Recreatethegoldenhour-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/atmosphere-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addrealisticfog-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dehaze-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removehaze-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sunrays-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Brightenwithraysoflight-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/twilight-enhancer-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Deepeneveningtones-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/water-enhancer-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Perfectwatertextures-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removedistractions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-expand-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Expandyourscene-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-swap-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Replaceobjectsseamlessly-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Reviveoldphotos-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sharpeneverydetail-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Denoisewithprecision-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/upscale-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Upscalewithoutloss-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Adddimensionallighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/magic-light-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addluminousdepth-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/mood-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Colorgradewithease-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/neon-glow-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Illuminatewithneon-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/film-grain-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addcinematictexture-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/overlays-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Layercreativeeffects-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/bokeh-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/bokeh-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/skin-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/face-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/face-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/body-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sculptbodyproportions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-bokeh-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Blurbackgroundsbeautifully-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/studio-light-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addstudiolighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-background-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Replacebackgroundseasily-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hight-key-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Brightenwithstyle-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hdr-merge-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/ergemultiplebrackets-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/panorama-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Stitchwidepanoramas-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/focus-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Stackfocusedshots-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Enhanceinseconds-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Refineeverypixel-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/skin-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Reviveoldphotos-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Fixcomposition-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sharpeneverydetail-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Denoisewithprecision-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removedistractions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Adddimensionallighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Instantlyreplaceskies-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockcrossdevice.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/zaglushkaCrossDevice.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockSpaces.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/zaglushkaSpaces.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Enhanceinseconds-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/structure-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Revealhiddendetails-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/supercontrast-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Boostcontast-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Fixcomposition-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Refineeverypixel-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/color-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Improvecolors-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dodge-burn-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Frame2018776740-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Instantlyreplaceskies-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/golden-hour-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Recreatethegoldenhour-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/atmosphere-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addrealisticfog-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dehaze-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removehaze-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sunrays-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Brightenwithraysoflight-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/twilight-enhancer-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Deepeneveningtones-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/water-enhancer-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Perfectwatertextures-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Removedistractions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-expand-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Expandyourscene-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-swap-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Replaceobjectsseamlessly-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Reviveoldphotos-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sharpeneverydetail-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Denoisewithprecision-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/upscale-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Upscalewithoutloss-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Adddimensionallighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/magic-light-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addluminousdepth-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/mood-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Colorgradewithease-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/neon-glow-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Illuminatewithneon-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/film-grain-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addcinematictexture-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/overlays-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Layercreativeeffects-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/bokeh-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/bokeh-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/skin-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/face-new-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/face-poster-new.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/body-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Sculptbodyproportions-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-bokeh-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Blurbackgroundsbeautifully-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/studio-light-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Addstudiolighting-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-background-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Replacebackgroundseasily-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hight-key-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Brightenwithstyle-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hdr-merge-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/ergemultiplebrackets-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/panorama-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Stitchwidepanoramas-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/focus-new.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/Stackfocusedshots-min.jpg?f=webp&q=80",
+          "loop": false,
+          "autoplay": false,
+          "muted": true,
+          "cls": ""
+        }
+      ],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "banner": {
+      "selector": "section.banner",
+      "top": 2361,
+      "height": 986,
+      "html_len": 34460,
+      "text": "Choose once, edit forever. Unlock easy editing across all your devices Luminar on Desktop , tablet and mobile 24+ AI-based tools 100+ precise features Works on desktop, mobile. Soon on web Award-winning, intuitive interface 30 days money back guarantee VIEW PLANS 09d : 23h : 25m : 02s",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/sum-26-devices.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(4)",
+          "w": 1340,
+          "h": 660,
+          "dw": 648,
+          "dh": 319,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-cta-banner-bg.jpg\")"
+      ],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "reasons": {
+      "selector": "section.discover-second",
+      "top": 3347,
+      "height": 1411,
+      "html_len": 9694,
+      "text": "5 reasons why Luminar is the best photo editor for you Lifetime access to the app Choose the plan you want, enjoy Luminar forever. Plus, get generative features and Library of Assets for 1 year. AI-Powered Advanced AI features automatically enhance your photos and save you time. Easy to use An intuitive interface and smart tools make editing simple for everyone. Edit on multiple devices Start editing on your phone, continue on desktop – your work stays synced. Soon available on web, too. Use as a plugin Integrate seamlessly with Lightroom classic and Photoshop for smooth, flexible editing. VIEW PLANS 09d : 23h : 25m : 02s",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/lifetimeaccess.jpg?f=webp&q=80",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(5)",
+          "w": 1420,
+          "h": 700,
+          "dw": 528,
+          "dh": 255,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-1-min.jpg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(6)",
+          "w": 1420,
+          "h": 700,
+          "dw": 528,
+          "dh": 255,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-2-min.jpg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(7)",
+          "w": 900,
+          "h": 700,
+          "dw": 328,
+          "dh": 255,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/multiple.jpg?f=webp&q=80",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(8)",
+          "w": 900,
+          "h": 700,
+          "dw": 328,
+          "dh": 255,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-3-min.jpg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(9)",
+          "w": 900,
+          "h": 700,
+          "dw": 328,
+          "dh": 255,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-1.mp4",
+          "type": "video/mp4",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-2.mp4",
+          "type": "video/mp4",
+          "media": ""
+        },
+        {
+          "srcset": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-3.mp4",
+          "type": "video/mp4",
+          "media": ""
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-1.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-1-min.jpg",
+          "loop": true,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-2.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-2-min.jpg",
+          "loop": true,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-3.mp4",
+          "poster": "https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-3-min.jpg",
+          "loop": true,
+          "autoplay": true,
+          "muted": true,
+          "cls": ""
+        }
+      ],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "discover": {
+      "selector": "section.sk-section.discover",
+      "top": 4758,
+      "height": 617,
+      "html_len": 8785,
+      "text": "Discover all capabilities of Luminar on Desktop With support for raw files, exporting in all major file formats, layers, masking, and much more, photography editing software Luminar meets all your editing needs. AI image enhancement Clone tool Raw editing Dodge & burn Layers support Color enhancement Non-destructive editing Crop and resize Lens correction Batch processing",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-1-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(10)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-6-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(11)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-2-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(12)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-7-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(13)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-3-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(14)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-8-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(15)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-4-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(16)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-9-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(17)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-5-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(18)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-10-new.svg",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(19)",
+          "w": 64,
+          "h": 64,
+          "dw": 64,
+          "dh": 64,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [],
+      "buttons": []
+    },
+    "possibilities": {
+      "selector": "div.possibilities",
+      "top": 5375,
+      "height": 1144,
+      "html_len": 29469,
+      "text": "The ultimate photo quality toolkit With Pro Tools, you can sharpen, denoise, upscale, and merge exposures or panoramas to reveal every detail exactly as you imagined it. HDR Merge Blend different exposures to reveal balanced light and vivid tones. Original Apply HDR Merge BEFORE AFTER Panorama Stitching Seamlessly merge photos into stunning wide-angle scenes. Original Apply Panorama Stitching BEFORE AFTER Upscale Enlarge your photos while preserving every detail and texture. Original Apply Upscale BEFORE AFTER Supersharp AI Restore perfect sharpness and bring out crisp, defined edges. Original Apply Supersharp AI BEFORE AFTER Noiseless AI Effortlessly remove digital noise for clean, high-quality images. Original Apply Noiseless AI BEFORE AFTER Focus Stacking Combine multiple shots to achieve flawless focus throughout the frame. Original Apply Focus Stacking BEFORE AFTER HDR Merge Blend different exposures to reveal balanced light and vivid tones. Original Apply HDR Merge BEFORE AFTER Panorama Stitching Seamlessly merge photos into stunning wide-angle scenes. Original Apply Panorama Stitching BEFORE AFTER Upscale Enlarge your photos while preserving every detail and texture. Original Apply Upscale BEFORE AFTER Supersharp AI Restore perfect sharpness and bring out crisp, defined edges. Original Apply Supersharp AI BEFORE AFTER VIEW PLANS 09d : 23h : 25m : 02s",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/hero-slider-arrow-left.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(20)",
+          "w": 48,
+          "h": 80,
+          "dw": 24,
+          "dh": 40,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/hero-slider-arrow-right.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(21)",
+          "w": 48,
+          "h": 80,
+          "dw": 24,
+          "dh": 40,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-5-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-5-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-6-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-6-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-1-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-1-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-2-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-2-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-3-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-3-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-4-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-4-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-5-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-5-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-6-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-6-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-1-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-1-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-2-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-2-min.jpg\")"
+      ],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "spectacular": {
+      "selector": "div.spectacular",
+      "top": 6518,
+      "height": 702,
+      "html_len": 4467,
+      "text": "BEFORE AFTER Just 4 steps to spectacular results Transform any photo from ordinary to breathtaking in just a few clicks. With intelligent AI tools guiding every step, you’ll enhance, refine, and perfect your image effortlessly. Original GenErase SkyAI Color Sunrays",
+      "images": [],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-before-img-min.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-color-min.jpg\")"
+      ],
+      "links": [],
+      "buttons": []
+    },
+    "retouch": {
+      "selector": "div.retouch",
+      "top": 7220,
+      "height": 702,
+      "html_len": 4338,
+      "text": "Retouch portrait like a pro in four steps Bring out the best in every face. Enhance skin, refine light, and add depth with intuitive tools that do the hard work for you. Original SkinAI FaceAI Mood Develop BEFORE AFTER",
+      "images": [],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait0.jpg?q=75&f=webp\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait3-mood.jpg?q=75&f=webp\")"
+      ],
+      "links": [],
+      "buttons": []
+    },
+    "photoshoot": {
+      "selector": "div.photoshoot",
+      "top": 7922,
+      "height": 764,
+      "html_len": 8921,
+      "text": "Edit a whole photoshoot in one click Save time with batch editing and a rich selection of presets that keep every photo looking stunning. EDIT ALL PHOTOS AT ONCE",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(22)",
+          "w": 3060,
+          "h": 812,
+          "dw": 1170,
+          "dh": 310,
+          "srcset": "",
+          "cls": "photoshoot__start-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(23)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__start-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(24)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__start-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(25)",
+          "w": 210,
+          "h": 72,
+          "dw": 103,
+          "dh": 35,
+          "srcset": "",
+          "cls": "btn-wrap__try"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(26)",
+          "w": 3060,
+          "h": 812,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(27)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(28)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(29)",
+          "w": 3060,
+          "h": 812,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(30)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(31)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(32)",
+          "w": 3060,
+          "h": 812,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(33)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(34)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(35)",
+          "w": 3060,
+          "h": 812,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(36)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(37)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-lg-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(38)",
+          "w": 3060,
+          "h": 812,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image desktop"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-sm-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(39)",
+          "w": 1380,
+          "h": 936,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image tablet"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-xs-min.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(40)",
+          "w": 880,
+          "h": 598,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-image mobile"
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-1.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(41)",
+          "w": 140,
+          "h": 96,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-2.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(42)",
+          "w": 140,
+          "h": 96,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-3.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(43)",
+          "w": 140,
+          "h": 96,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-4.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(44)",
+          "w": 140,
+          "h": 96,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-5.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(45)",
+          "w": 140,
+          "h": 96,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(46)",
+          "w": 210,
+          "h": 72,
+          "dw": 0,
+          "dh": 0,
+          "srcset": "",
+          "cls": "photoshoot__result-controls_try"
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-1.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-2.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-3.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-4.jpg\")",
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-5.jpg\")"
+      ],
+      "links": [
+        {
+          "t": "EDIT ALL PHOTOS AT ONCE",
+          "href": "javascript:void(0)"
+        }
+      ],
+      "buttons": []
+    },
+    "banner-bottom": {
+      "selector": "section.banner-bottom",
+      "top": 8686,
+      "height": 980,
+      "html_len": 6163,
+      "text": "🔥 SALE UP TO 50% OFF Stunning results, now with up to 50% OFF Pick the plan that works for you and start editing on any device. VIEW PLANS 09d : 23h : 25m : 02s No risks & no hidden fees 24/7 chat support 30-day money back guarantee One-time purchase",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/devices-banner-bottom-main.png?w=1440",
+          "alt": "Luminar - Easy Photo Editor | Software for Mac & PC(51)",
+          "w": 1440,
+          "h": 492,
+          "dw": 1010,
+          "dh": 345,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [
+        "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/bglastcta.jpg?f=webp&q=80\")"
+      ],
+      "links": [
+        {
+          "t": "VIEW PLANS",
+          "href": "/luminar/pricing"
+        }
+      ],
+      "buttons": []
+    },
+    "faq": {
+      "selector": "section.luminar-ai-faq",
+      "top": 9666,
+      "height": 1041,
+      "html_len": 18275,
+      "text": "Frequently Asked Questions What is Luminar for Desktop? Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease. It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable. How do I get Luminar for Desktop? What is the difference between Luminar plans? Can I start editing on one device and finish on another? How many devices can I use Luminar for Desktop on? Do you offer educational and military discounts? What does a photo editor do? How to use Luminar for Desktop? How to install Luminar for Desktop? What is the latest version of Luminar for Desktop? READ FULL GUIDE",
+      "images": [],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "on this page",
+          "href": "/luminar/pricing"
+        },
+        {
+          "t": "My Account",
+          "href": "/user/login"
+        },
+        {
+          "t": "Learn more",
+          "href": "https://support.skylum.com/manage-license/activate-luminar-neo-on-another-device"
+        },
+        {
+          "t": "click here",
+          "href": "/luminar-discount"
+        },
+        {
+          "t": "Click here to redeem it",
+          "href": "/loyalty-discount"
+        },
+        {
+          "t": "here.",
+          "href": "/whats-new/luminar-neo"
+        },
+        {
+          "t": "READ FULL GUIDE",
+          "href": "/faq/luminar-neo"
+        }
+      ],
+      "buttons": []
+    },
+    "requirements": {
+      "selector": "section.luminar-neo-requirements",
+      "top": 10708,
+      "height": 111,
+      "html_len": 13996,
+      "text": "App Requirements SHOW MORE macOS Mac Model MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini, early 2010 or newer Processor CPU Intel® Core™ i5 8 Gen or better OS version macOS 12.0 or higher. RAM Memory 8 GB RAM or more (16+ GB RAM is recommended) Disk space Hard disk 10 GB free space; SSD for best performance Display 1280x768 size or better Windows Hardware Windows-based hardware PC with mouse or similar input device Processor CPU Intel® Core™ i5 8 Gen or better, AMD Ryzen™ 5 or better OS version 10 version 1909 or higher (only 64-bit OS) RAM Memory 8 GB RAM or more (16+ GB RAM is recommended) Disk space Hard disk 10 GB free space; SSD for best performance Display 1280x768 size or better Graphics Open GL 3.3 or later compatible graphics card",
+      "images": [],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [],
+      "buttons": [
+        {
+          "t": "SHOW MORE",
+          "cls": "sk-btn sk-btn_type_clean-border desktop-req-btn"
+        },
+        {
+          "t": "Show More Show Less",
+          "cls": "sk-btn sk-btn_type_clean-border mobile-req-btn"
+        }
+      ]
+    },
+    "footer": {
+      "selector": "footer.footer-new",
+      "top": 10818,
+      "height": 630,
+      "html_len": 85340,
+      "text": "SKYLUM PRODUCTS Luminar on Desktop Luminar on Mobile Aperty Online Tools MARKETPLACE Presets Bundles LUTs Overlays Extra Skies E-boooks Courses COMPANY About Skylum Careers Ambassadors Affiliate Program Terms of use Privacy Policy AI Guidelines Contact Us HELP Contact Support FAQs User Guide Change Choice on Cookies FOR BUSINESS Skylum for Business Volume Licensing Reseller Program LEARN MORE Blog How To Newsroom Our community Luminar for Creators Earn with Luminar Marketplace Top On Blog Top How To Tips JOIN OUR NEWSLETTER SUBSCRIBE Your personal data will be processed in accordance with our Privacy Policy Thank you for subscribing! AI RECOMMENDS LUMINAR Luminar is leading photo editor. See for yourself! English © 2010 - 2026 Skylum®. All Rights Reserved.",
+      "images": [
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-fb-white.svg",
+          "alt": "Luminar Neo Facebook",
+          "w": 16,
+          "h": 16,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-instagram-white.svg",
+          "alt": "Luminar Neo Instagram",
+          "w": 16,
+          "h": 16,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-linkedin-white.svg",
+          "alt": "Skylum Linkedin",
+          "w": 16,
+          "h": 16,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-youtube-white.svg",
+          "alt": "Luminar Neo YouTube",
+          "w": 16,
+          "h": 16,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/footer-twitter-white.svg",
+          "alt": "Luminar Neo Twitter",
+          "w": 16,
+          "h": 14,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        },
+        {
+          "src": "https://media.macphun.com/img/uploads/uploads/skylum/footer/pinterest.svg",
+          "alt": "Luminar Neo Pinterest",
+          "w": 256,
+          "h": 256,
+          "dw": 20,
+          "dh": 20,
+          "srcset": "",
+          "cls": ""
+        }
+      ],
+      "sources": [],
+      "videos": [],
+      "bgImages": [],
+      "links": [
+        {
+          "t": "Overview",
+          "href": "/luminar"
+        },
+        {
+          "t": "Pricing",
+          "href": "/luminar/pricing"
+        },
+        {
+          "t": "Features",
+          "href": ""
+        },
+        {
+          "t": "Pro Tools",
+          "href": ""
+        },
+        {
+          "t": "Use Cases",
+          "href": ""
+        },
+        {
+          "t": "Alternatives",
+          "href": ""
+        },
+        {
+          "t": "Trial",
+          "href": "/luminar-trial"
+        },
+        {
+          "t": "Discounts",
+          "href": "/luminar-discount"
+        },
+        {
+          "t": "Luminar on Desktop Beta",
+          "href": "/l/join-beta"
+        },
+        {
+          "t": "Overview",
+          "href": "/luminar-mobile"
+        },
+        {
+          "t": "Luminar for iPad",
+          "href": "/luminar-for-ipad"
+        },
+        {
+          "t": "Luminar for iPhone",
+          "href": "/luminar-for-iphone"
+        },
+        {
+          "t": "Luminar for Vision Pro",
+          "href": "/luminar-for-vision-pro"
+        },
+        {
+          "t": "Luminar on Mobile User Guide",
+          "href": "https://support.skylum.com/luminar_mobile"
+        },
+        {
+          "t": "Alternatives",
+          "href": ""
+        },
+        {
+          "t": "Overview",
+          "href": "https://aperty.ai"
+        },
+        {
+          "t": "Pricing",
+          "href": "https://aperty.ai/pricing"
+        },
+        {
+          "t": "Aperty User Guide",
+          "href": "https://support.aperty.ai/"
+        },
+        {
+          "t": "Online Editor",
+          "href": "/online-photo-editor"
+        },
+        {
+          "t": "Color Palette",
+          "href": "https://skylum.com/color-palette-generator"
+        },
+        {
+          "t": "Color Picker",
+          "href": "/color-picker"
+        },
+        {
+          "t": "Luminar Presets",
+          "href": "https://marketplace.skylum.com/luminar-presets"
+        },
+        {
+          "t": "Lightroom Presets",
+          "href": "https://marketplace.skylum.com/lightroom-presets"
+        },
+        {
+          "t": "Luminar Neo Bundles",
+          "href": "https://marketplace.skylum.com/bundles?filters[compatibility]=3"
+        },
+        {
+          "t": "Luminar Neo LUTs",
+          "href": "https://marketplace.skylum.com/luts?filters[compatibility]=3"
+        },
+        {
+          "t": "Aperty LUTs",
+          "href": "https://marketplace.skylum.com/luts?filters[compatibility]=8"
+        },
+        {
+          "t": "Textures",
+          "href": "https://marketplace.skylum.com/textures"
+        },
+        {
+          "t": "Sky Objects",
+          "href": "https://marketplace.skylum.com/sky-objects"
+        },
+        {
+          "t": "Backgrounds",
+          "href": "https://marketplace.skylum.com/backgrounds"
+        },
+        {
+          "t": "Other software",
+          "href": "https://marketplace.skylum.com/software"
+        },
+        {
+          "t": "X Membership",
+          "href": "/x-membership"
+        },
+        {
+          "t": "Skies",
+          "href": "https://marketplace.skylum.com/skies"
+        },
+        {
+          "t": "E-boooks",
+          "href": "https://marketplace.skylum.com/e-books"
+        },
+        {
+          "t": "Courses",
+          "href": "https://marketplace.skylum.com/classes"
+        },
+        {
+          "t": "About Skylum",
+          "href": "/about"
+        },
+        {
+          "t": "Careers",
+          "href": "https://skylum.com/careers"
+        },
+        {
+          "t": "Ambassadors",
+          "href": "https://skylum.com/ambassadors"
+        },
+        {
+          "t": "Affiliate Program",
+          "href": "/affiliates"
+        },
+        {
+          "t": "Terms of use",
+          "href": "https://skylum.com/terms-of-use"
+        },
+        {
+          "t": "Privacy Policy",
+          "href": "https://skylum.com/legal"
+        },
+        {
+          "t": "AI Guidelines",
+          "href": "https://skylum.com/ai-guidelines-policy"
+        },
+        {
+          "t": "Contact Us",
+          "href": "/contact-us"
+        },
+        {
+          "t": "Contact Support",
+          "href": "https://skylum.com/support"
+        },
+        {
+          "t": "FAQs",
+          "href": "https://skylum.com/faq/luminar-neo"
+        },
+        {
+          "t": "User Guide",
+          "href": "https://support.skylum.com/"
+        },
+        {
+          "t": "Change Choice on Cookies",
+          "href": ""
+        },
+        {
+          "t": "Skylum for Business",
+          "href": "https://skylum.com/skylum-for-business"
+        },
+        {
+          "t": "Volume Licensing",
+          "href": "https://skylum.com/volume-licensing"
+        },
+        {
+          "t": "Reseller Program",
+          "href": "/resellers"
+        },
+        {
+          "t": "Blog",
+          "href": "https://blog.skylum.com/"
+        },
+        {
+          "t": "How To",
+          "href": "/how-to"
+        },
+        {
+          "t": "Newsroom",
+          "href": "https://skylum.com/newsroom"
+        },
+        {
+          "t": "Our community",
+          "href": "/luminar-community"
+        },
+        {
+          "t": "Luminar for Creators",
+          "href": "/luminar-for-creators"
+        },
+        {
+          "t": "Earn with Luminar Marketplace",
+          "href": "/welcome-artists"
+        },
+        {
+          "t": "Manual Mode in Photography",
+          "href": "https://blog.skylum.com/photography-cheat-sheet-manual-mode-camera-settings/"
+        },
+        {
+          "t": "How Much Do Photographers Charge",
+          "href": "https://blog.skylum.com/photography-prices-for-beginners/"
+        },
+        {
+          "t": "Best Free Photoshop Alternatives",
+          "href": "https://blog.skylum.com/best-free-photoshop-alternatives/"
+        },
+        {
+          "t": "Fix Blurry Pictures On iPhone",
+          "href": "https://blog.skylum.com/how-to-fix-blurry-pictures-on-iphone/"
+        },
+        {
+          "t": "How Big Is 8x10 Photo Size",
+          "href": "https://blog.skylum.com/how-big-is-8x10/"
+        }
+      ],
+      "buttons": [
+        {
+          "t": "SUBSCRIBE",
+          "cls": "footer-new__subscribe-btn"
+        }
+      ]
+    }
+  },
+  "typo": {
+    "body": {
+      "ff": "Roobert, sans-serif",
+      "fs": "16px",
+      "fw": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h1": {
+      "ff": "Roobert, Helvetica, Arial, sans-serif",
+      "fs": "50px",
+      "fw": "600",
+      "lh": "62.5px",
+      "ls": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h2": {
+      "ff": "Roobert, Helvetica, Arial, sans-serif",
+      "fs": "42px",
+      "fw": "600",
+      "lh": "52.5px",
+      "ls": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    "h3": {
+      "ff": "Roobert, Helvetica, Arial, sans-serif",
+      "fs": "13px",
+      "fw": "600",
+      "lh": "15.6px",
+      "ls": "normal",
+      "color": "rgb(255, 255, 255)"
+    },
+    "p": {
+      "ff": "Roobert, sans-serif",
+      "fs": "14px",
+      "fw": "400",
+      "lh": "normal",
+      "ls": "normal",
+      "color": "rgba(0, 0, 0, 0.54)"
+    },
+    "heroTitle": {
+      "ff": "Roobert, Helvetica, Arial, sans-serif",
+      "fs": "50px",
+      "fw": "600",
+      "lh": "62.5px",
+      "ls": "normal",
+      "color": "rgb(255, 255, 255)"
+    }
+  },
+  "docHeight": 11448
+}

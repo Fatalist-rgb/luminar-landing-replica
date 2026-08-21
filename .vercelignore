@@ -1,0 +1,10 @@
+research/
+specs/
+.specify/
+.agents/
+.claude/
+tests/
+test-results/
+playwright-report/
+playwright.config.ts
+scripts/

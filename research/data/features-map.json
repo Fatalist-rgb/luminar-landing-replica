@@ -1,0 +1,461 @@
+{
+ "groups": [
+  {
+   "group": "Top features",
+   "open": true,
+   "items": [
+    {
+     "title": "Enhance in seconds",
+     "tab": "general-tab-2",
+     "active": true,
+     "icon": "sparkles.svg",
+     "poster": "Enhanceinseconds-min.jpg",
+     "video": "enhance-new.mp4"
+    },
+    {
+     "title": "Refine every pixel",
+     "tab": "general-tab-54",
+     "active": false,
+     "icon": "brightness.svg",
+     "poster": "Refineeverypixel-min.jpg",
+     "video": "develop-new.mp4"
+    },
+    {
+     "title": "Smooth skin naturally",
+     "tab": "general-tab-36",
+     "active": false,
+     "icon": "Smooth.svg",
+     "poster": "skin-poster-new.jpg",
+     "video": "skin-new-2.mp4"
+    },
+    {
+     "title": "Revive old photos",
+     "tab": "general-tab-46",
+     "active": false,
+     "icon": "restoration.svg",
+     "poster": "Reviveoldphotos-min.jpg",
+     "video": "restoration-new.mp4"
+    },
+    {
+     "title": "Fix composition",
+     "tab": "general-tab-56",
+     "active": false,
+     "icon": "crop.svg",
+     "poster": "Fixcomposition-min.jpg",
+     "video": "composition-new.mp4"
+    },
+    {
+     "title": "Sharpen every detail",
+     "tab": "general-tab-6",
+     "active": false,
+     "icon": "histogram.svg",
+     "poster": "Sharpeneverydetail-min.jpg",
+     "video": "Supersharp-new.mp4"
+    },
+    {
+     "title": "Denoise with precision",
+     "tab": "general-tab-57",
+     "active": false,
+     "icon": "pattern.svg",
+     "poster": "Denoisewithprecision-min.jpg",
+     "video": "noiseless-new.mp4"
+    },
+    {
+     "title": "Remove distractions",
+     "tab": "general-tab-3",
+     "active": false,
+     "icon": "erase.svg",
+     "poster": "Removedistractions-min.jpg",
+     "video": "gen-erase-new.mp4"
+    },
+    {
+     "title": "Add dimensional lighting",
+     "tab": "general-tab-47",
+     "active": false,
+     "icon": "light-depth.svg",
+     "poster": "Adddimensionallighting-min.jpg",
+     "video": "light-depth-new.mp4"
+    },
+    {
+     "title": "Instantly replace skies",
+     "tab": "general-tab-4",
+     "active": false,
+     "icon": "cloud.svg",
+     "poster": "Instantlyreplaceskies-min.jpg",
+     "video": "sky-new.mp4"
+    },
+    {
+     "title": "Edit across devices",
+     "tab": "general-tab-51",
+     "active": false,
+     "icon": "crossdevice.svg",
+     "poster": "zaglushkaCrossDevice.jpg",
+     "video": "2ndblockcrossdevice.mp4"
+    },
+    {
+     "title": "Share edits in web galleries",
+     "tab": "general-tab-52",
+     "active": false,
+     "icon": "spaces.svg",
+     "poster": "zaglushkaSpaces.jpg",
+     "video": "2ndblockSpaces.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Essentials",
+   "open": false,
+   "items": [
+    {
+     "title": "Enhance in seconds",
+     "tab": "general-tab-9",
+     "active": false,
+     "icon": "sparkles.svg",
+     "poster": "Enhanceinseconds-min.jpg",
+     "video": "enhance-new.mp4"
+    },
+    {
+     "title": "Reveal hidden details",
+     "tab": "general-tab-10",
+     "active": false,
+     "icon": "cluster.svg",
+     "poster": "Revealhiddendetails-min.jpg",
+     "video": "structure-new.mp4"
+    },
+    {
+     "title": "Boost contast",
+     "tab": "general-tab-11",
+     "active": false,
+     "icon": "contrast.svg",
+     "poster": "Boostcontast-min.jpg",
+     "video": "supercontrast-new.mp4"
+    },
+    {
+     "title": "Fix composition",
+     "tab": "general-tab-12",
+     "active": false,
+     "icon": "crop.svg",
+     "poster": "Fixcomposition-min.jpg",
+     "video": "composition-new.mp4"
+    },
+    {
+     "title": "Refine every pixel",
+     "tab": "general-tab-13",
+     "active": false,
+     "icon": "brightness.svg",
+     "poster": "Refineeverypixel-min.jpg",
+     "video": "develop-new.mp4"
+    },
+    {
+     "title": "Improve colors",
+     "tab": "general-tab-14",
+     "active": false,
+     "icon": "color-balance.svg",
+     "poster": "Improvecolors-min.jpg",
+     "video": "color-new.mp4"
+    },
+    {
+     "title": "Sculpt light and shadow",
+     "tab": "general-tab-15",
+     "active": false,
+     "icon": "flame.svg",
+     "poster": "Frame2018776740-min.jpg",
+     "video": "dodge-burn-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Landscape",
+   "open": false,
+   "items": [
+    {
+     "title": "Instantly replace skies",
+     "tab": "general-tab-16",
+     "active": false,
+     "icon": "cloud.svg",
+     "poster": "Instantlyreplaceskies-min.jpg",
+     "video": "sky-new.mp4"
+    },
+    {
+     "title": "Recreate the golden hour",
+     "tab": "general-tab-17",
+     "active": false,
+     "icon": "image.svg",
+     "poster": "Recreatethegoldenhour-min.jpg",
+     "video": "golden-hour-new.mp4"
+    },
+    {
+     "title": "Add realistic fog",
+     "tab": "general-tab-18",
+     "active": false,
+     "icon": "wave.svg",
+     "poster": "Addrealisticfog-min.jpg",
+     "video": "atmosphere-new.mp4"
+    },
+    {
+     "title": "Remove haze",
+     "tab": "general-tab-19",
+     "active": false,
+     "icon": "image.svg",
+     "poster": "Removehaze-min.jpg",
+     "video": "dehaze-new.mp4"
+    },
+    {
+     "title": "Brighten with rays of light",
+     "tab": "general-tab-20",
+     "active": false,
+     "icon": "sun.svg",
+     "poster": "Brightenwithraysoflight-min.jpg",
+     "video": "sunrays-new.mp4"
+    },
+    {
+     "title": "Deepen evening tones",
+     "tab": "general-tab-21",
+     "active": false,
+     "icon": "sunset.svg",
+     "poster": "Deepeneveningtones-min.jpg",
+     "video": "twilight-enhancer-new.mp4"
+    },
+    {
+     "title": "Perfect water textures",
+     "tab": "general-tab-22",
+     "active": false,
+     "icon": "drip.svg",
+     "poster": "Perfectwatertextures-min.jpg",
+     "video": "water-enhancer-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Generative AI",
+   "open": false,
+   "items": [
+    {
+     "title": "Remove distractions",
+     "tab": "general-tab-23",
+     "active": false,
+     "icon": "erase.svg",
+     "poster": "Removedistractions-min.jpg",
+     "video": "gen-erase-new.mp4"
+    },
+    {
+     "title": "Expand your scene",
+     "tab": "general-tab-24",
+     "active": false,
+     "icon": "expand.svg",
+     "poster": "Expandyourscene-min.jpg",
+     "video": "gen-expand-new.mp4"
+    },
+    {
+     "title": "Replace objects seamlessly",
+     "tab": "general-tab-25",
+     "active": false,
+     "icon": "swap.svg",
+     "poster": "Replaceobjectsseamlessly-min.jpg",
+     "video": "gen-swap-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Image Quality",
+   "open": false,
+   "items": [
+    {
+     "title": "Revive old photos",
+     "tab": "general-tab-48",
+     "active": false,
+     "icon": "restoration.svg",
+     "poster": "Reviveoldphotos-min.jpg",
+     "video": "restoration-new.mp4"
+    },
+    {
+     "title": "Sharpen every detail",
+     "tab": "general-tab-26",
+     "active": false,
+     "icon": "histogram.svg",
+     "poster": "Sharpeneverydetail-min.jpg",
+     "video": "Supersharp-new.mp4"
+    },
+    {
+     "title": "Denoise with precision",
+     "tab": "general-tab-27",
+     "active": false,
+     "icon": "pattern.svg",
+     "poster": "Denoisewithprecision-min.jpg",
+     "video": "noiseless-new.mp4"
+    },
+    {
+     "title": "Upscale without loss",
+     "tab": "general-tab-28",
+     "active": false,
+     "icon": "resize.svg",
+     "poster": "Upscalewithoutloss-min.jpg",
+     "video": "upscale-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Creative",
+   "open": false,
+   "items": [
+    {
+     "title": "Add dimensional lighting",
+     "tab": "general-tab-49",
+     "active": false,
+     "icon": "light-depth.svg",
+     "poster": "Adddimensionallighting-min.jpg",
+     "video": "light-depth-new.mp4"
+    },
+    {
+     "title": "Add luminous depth",
+     "tab": "general-tab-31",
+     "active": false,
+     "icon": "sparkles-2.svg",
+     "poster": "Addluminousdepth-min.jpg",
+     "video": "magic-light-new.mp4"
+    },
+    {
+     "title": "Color grade with ease",
+     "tab": "general-tab-32",
+     "active": false,
+     "icon": "flower.svg",
+     "poster": "Colorgradewithease-min.jpg",
+     "video": "mood-new.mp4"
+    },
+    {
+     "title": "Illuminate with neon",
+     "tab": "general-tab-33",
+     "active": false,
+     "icon": "sunset-2.svg",
+     "poster": "Illuminatewithneon-min.jpg",
+     "video": "neon-glow-new.mp4"
+    },
+    {
+     "title": "Add cinematic texture",
+     "tab": "general-tab-34",
+     "active": false,
+     "icon": "filmstrip.svg",
+     "poster": "Addcinematictexture-min.jpg",
+     "video": "film-grain-new.mp4"
+    },
+    {
+     "title": "Layer creative effects",
+     "tab": "general-tab-35",
+     "active": false,
+     "icon": "layers.svg",
+     "poster": "Layercreativeeffects-min.jpg",
+     "video": "overlays-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Portrait",
+   "open": false,
+   "items": [
+    {
+     "title": "Create a dreamy bokeh effect NEW",
+     "tab": "general-tab-51",
+     "active": false,
+     "icon": "bokeh-effect.svg",
+     "poster": "bokeh-poster-new.jpg",
+     "video": "bokeh-new.mp4"
+    },
+    {
+     "title": "Smooth skin naturally IMPROVED",
+     "tab": "general-tab-52",
+     "active": false,
+     "icon": "Smooth.svg",
+     "poster": "skin-poster-new.jpg",
+     "video": "skin-new-2.mp4"
+    },
+    {
+     "title": "Enhance facial features IMPROVED",
+     "tab": "general-tab-53",
+     "active": false,
+     "icon": "Enhance.svg",
+     "poster": "face-poster-new.jpg",
+     "video": "face-new-2.mp4"
+    },
+    {
+     "title": "Sculpt body proportions",
+     "tab": "general-tab-38",
+     "active": false,
+     "icon": "Sculpt.svg",
+     "poster": "Sculptbodyproportions-min.jpg",
+     "video": "body-new.mp4"
+    },
+    {
+     "title": "Blur backgrounds beautifully",
+     "tab": "general-tab-39",
+     "active": false,
+     "icon": "Blur.svg",
+     "poster": "Blurbackgroundsbeautifully-min.jpg",
+     "video": "portrait-bokeh-new.mp4"
+    },
+    {
+     "title": "Add studio lighting",
+     "tab": "general-tab-40",
+     "active": false,
+     "icon": "lighting.svg",
+     "poster": "Addstudiolighting-min.jpg",
+     "video": "studio-light-new.mp4"
+    },
+    {
+     "title": "Replace backgrounds easily",
+     "tab": "general-tab-41",
+     "active": false,
+     "icon": "Replace.svg",
+     "poster": "Replacebackgroundseasily-min.jpg",
+     "video": "portrait-background-new.mp4"
+    },
+    {
+     "title": "Brighten with style",
+     "tab": "general-tab-42",
+     "active": false,
+     "icon": "Brighten.svg",
+     "poster": "Brightenwithstyle-min.jpg",
+     "video": "hight-key-new.mp4"
+    }
+   ]
+  },
+  {
+   "group": "Photo merge",
+   "open": false,
+   "items": [
+    {
+     "title": "Merge multiple brackets",
+     "tab": "general-tab-43",
+     "active": false,
+     "icon": "hdr.svg",
+     "poster": "ergemultiplebrackets-min.jpg",
+     "video": "hdr-merge-new.mp4"
+    },
+    {
+     "title": "Stitch wide panoramas",
+     "tab": "general-tab-44",
+     "active": false,
+     "icon": "panorama.svg",
+     "poster": "Stitchwidepanoramas-min.jpg",
+     "video": "panorama-new.mp4"
+    },
+    {
+     "title": "Stack focused shots",
+     "tab": "general-tab-45",
+     "active": false,
+     "icon": "focus.svg",
+     "poster": "Stackfocusedshots-min.jpg",
+     "video": "focus-new.mp4"
+    }
+   ]
+  }
+ ],
+ "rightCls": "df-section-tabs js-tabs-main",
+ "rightMedia": [
+  "sparkles.svg",
+  "enhance-new.mp4",
+  "enhance-new.mp4",
+  "brightness.svg",
+  "develop-new.mp4",
+  "develop-new.mp4"
+ ]
+}

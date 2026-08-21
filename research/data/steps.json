@@ -1,0 +1,60 @@
+{
+ "spectacular": {
+  "before": "spectacular-before-img-min.jpg",
+  "steps": [
+   {
+    "label": "Original",
+    "after": null
+   },
+   {
+    "label": "GenErase",
+    "after": "spectacular-after-img-generase-min.jpg"
+   },
+   {
+    "label": "SkyAI",
+    "after": "spectacular-after-img-sky-min.jpg"
+   },
+   {
+    "label": "Color",
+    "after": "spectacular-after-img-color-min.jpg"
+   },
+   {
+    "label": "Sunrays",
+    "after": "spectacular-after-img-sunrays-min.jpg"
+   }
+  ],
+  "labels": [
+   "BEFORE",
+   "AFTER"
+  ]
+ },
+ "retouch": {
+  "before": "portrait0.jpg",
+  "steps": [
+   {
+    "label": "Original",
+    "after": null
+   },
+   {
+    "label": "SkinAI",
+    "after": "portrait1-skinai.jpg"
+   },
+   {
+    "label": "FaceAI",
+    "after": "portrait2-faceai.jpg"
+   },
+   {
+    "label": "Mood",
+    "after": "portrait3-mood.jpg"
+   },
+   {
+    "label": "Develop",
+    "after": "portrait4-develop.jpg"
+   }
+  ],
+  "labels": [
+   "BEFORE",
+   "AFTER"
+  ]
+ }
+}

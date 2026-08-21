@@ -1,0 +1,1131 @@
+{
+ "header": {
+  "topRow": [
+   "Luminar on Desktop Overview Features Pricing What’s new Luminar on Mobile Aperty Marketplace Blog More Log In"
+  ],
+  "allLinks": [
+   {
+    "t": "Luminar on Desktop",
+    "href": "/luminar",
+    "cls": "sl-text menu__item-link menu__item-luminar_on_desktop is-act"
+   },
+   {
+    "t": "Overview",
+    "href": "/luminar",
+    "cls": "sl-text menu__item-link menu__item-overview is-active-single"
+   },
+   {
+    "t": "Bokeh AI",
+    "href": "/luminar/bokeh-effect",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Face AI",
+    "href": "/luminar/face-ai-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "SkinAI",
+    "href": "/luminar/skin-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "AI Assistant",
+    "href": "/luminar/ai-assistant",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Crossdevice",
+    "href": "/luminar/crossdevice",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Photo Restoration",
+    "href": "/luminar/photo-restoration",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Light Depth",
+    "href": "/luminar/light-depth",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Color Transfer",
+    "href": "/luminar/color-transfer",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "EnhanceAI",
+    "href": "/luminar/enhance-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Erase",
+    "href": "/erase-objects",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "AI Masking",
+    "href": "/ai-photo-masking",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Layers",
+    "href": "/luminar/ai-layer-mask",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Portrait Background",
+    "href": "/portrait-background-removal",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "SkyAI",
+    "href": "/luminar/sky-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "StructureAI",
+    "href": "/luminar/structure-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Supercontrast",
+    "href": "/luminar/supercontrast",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "CompositionAI",
+    "href": "/luminar/composition-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Studio Light",
+    "href": "/luminar/studio-light",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Neon&Glow",
+    "href": "/luminar/neon-glow",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "GenErase",
+    "href": "/luminar/generase",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "GenSwap",
+    "href": "/luminar/genswap",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "GenExpand",
+    "href": "/luminar/genexpand",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Water EnhancerAI",
+    "href": "/luminar/water-enhancer",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Twilight EnhancerAI",
+    "href": "/luminar/twilight-enhancer",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "See All 30+ Features",
+    "href": "/product-tour",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Landscape Photography",
+    "href": "/landscape-photo-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Wildlife Photography",
+    "href": "/wildlife-photography",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Family Photography",
+    "href": "/family-photo-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Wedding Photography",
+    "href": "/wedding-photo-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Newborn Photography",
+    "href": "/newborn-family-photography",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Photoediting for beginners",
+    "href": "/photo-editor-for-beginners",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "AI Photo Editor",
+    "href": "/luminar-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Real Estate",
+    "href": "/real-estate",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "E-commerce Photography",
+    "href": "/ecommerce-photo-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Food Photography",
+    "href": "/food-photo-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Drone Photography",
+    "href": "/drone-photography-editor",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "SupersharpAI",
+    "href": "/luminar/supersharp-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Focus Stacking",
+    "href": "/luminar/focus-stacking",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Background RemovalAI",
+    "href": "/luminar/background-removal-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "UpscaleAI",
+    "href": "/luminar/upscale-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "NoiselessAI",
+    "href": "/luminar/noiseless-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "HDR Merge",
+    "href": "/luminar/hdr-merge",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Magic LightAI",
+    "href": "/luminar/magic-light-ai",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Panorama Stitching",
+    "href": "/luminar/panorama-stitching",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Pricing",
+    "href": "/luminar/pricing",
+    "cls": "sl-text menu__item-link menu__item-pricing  "
+   },
+   {
+    "t": "What’s new",
+    "href": "/whats-new/luminar-neo",
+    "cls": "sl-text menu__item-link menu__item-what’s_new  "
+   },
+   {
+    "t": "Luminar on Mobile",
+    "href": "/luminar-mobile",
+    "cls": "sl-text menu__item-link menu__item-luminar_on_mobile  "
+   },
+   {
+    "t": "Aperty",
+    "href": "https://aperty.ai",
+    "cls": "sl-text menu__item-link menu__item-aperty  "
+   },
+   {
+    "t": "Marketplace",
+    "href": "//marketplace.skylum.com/",
+    "cls": "sl-text menu__item-link menu__item-marketplace  "
+   },
+   {
+    "t": "Blog",
+    "href": "https://blog.skylum.com",
+    "cls": "sl-text menu__item-link menu__item-blog  "
+   },
+   {
+    "t": "About Skylum",
+    "href": "/about",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Careers",
+    "href": "/careers",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Newsroom",
+    "href": "/newsroom",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Skylum for Business",
+    "href": "/skylum-for-business",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Volume Licensing",
+    "href": "/volume-licensing",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Reseller Program",
+    "href": "/resellers",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Ambassadors",
+    "href": "/ambassadors",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Affiliate Program",
+    "href": "/affiliates",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Need help?",
+    "href": "/support",
+    "cls": " menu__sub-item-link"
+   },
+   {
+    "t": "Log In",
+    "href": "/user/login",
+    "cls": "sl-text menu__item-link"
+   },
+   {
+    "t": "English",
+    "href": "/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Deutsch",
+    "href": "/de/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "日本語",
+    "href": "/jp/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Français",
+    "href": "/fr/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Español",
+    "href": "/es/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Italiano",
+    "href": "/it/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Nederlands",
+    "href": "/nl/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Čeština",
+    "href": "/cs/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "한국어",
+    "href": "/ko/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Polski",
+    "href": "/pl/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Українська",
+    "href": "/uk/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "简体中文",
+    "href": "/hans/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "繁體中文",
+    "href": "/hant/luminar",
+    "cls": "menu__sub-item-link"
+   },
+   {
+    "t": "Log In",
+    "href": "/user/login",
+    "cls": "sl-text header-aperty__sign"
+   }
+  ],
+  "logos": [
+   "https://media.macphun.com/img/uploads/uploads/skylum/l/SKYLUM_logo_white.svg",
+   "inline-svg",
+   "inline-svg"
+  ],
+  "html": "<header class=\"header-aperty js-header sk-grid header-638 menu__item-css-101\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"header-aperty__wrap\">\n                    <div class=\"header-aperty__wrap-logo\">\n                        <figure class=\"header-aperty__logo header-aperty__logo_text\">\n                            <a href=\"/\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/SKYLUM_logo_white.svg\" alt=\"Skylum\">\n                            </a>\n                            <!--<a class=\"color-logo\" href=\"/\">\n                                <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/Skylum_logo_color_blc.svg\"\n                                     alt=\"Skylum\">\n                            </a>-->\n                        </figure>\n\n                                            </div>\n\n                    <div class=\"header-aperty__wrap-inner\">\n\n                        <ul class=\"header-aperty__menu menu js-header-aperty-menu\">\n\n                            <li class=\"menu__item is-active  is-hide-md menu__item-css-100 js-menu-animation\">\n\n            <a href=\"/luminar\" class=\"sl-text menu__item-link menu__item-luminar_on_desktop is-active-single js-header-aperty-dropdown-title\" data-ga=\"ec:Site.ea:Header_Menu_Luminar_on_Desktop_click\" data-ga-action=\"click\">\n            <span class=\"menu__item-link-text\">Luminar on Desktop</span>\n                            <i class=\"fa fa-angle-down menu__item-link-arrow\" aria-hidden=\"true\"></i>\n                    </a>\n    \n    \n            <div class=\"menu__sub-menu-wrap menu__sub-menu-wrap_col js-menu-animation js-header-aperty-dropdown\">\n                <a href=\"//marketplace.skylum.com\" class=\"menu__sub-menu-link\"></a><ul class=\"header-aperty__menu menu js-header-aperty-menu\">                <li class=\"menu__item is-active menu__item_clear is-hide-md  js-menu-animation\">\n\n            <a href=\"/luminar\" class=\"sl-text menu__item-link menu__item-overview is-active-single \" data-ga=\"ec:Site.ea:Header_Menu_Overview_click\" data-ga-action=\"click\">\n            <span class=\"menu__item-link-text\">Overview</span>\n                    </a>\n    \n    </li><li class=\"menu__item   is-hide-md  js-menu-animation\">\n\n            <span class=\"sl-text menu__item-link menu__item-features  js-header-aperty-dropdown-title\" data-ga=\"ec:Site.ea:Header_Menu_Features_click\" data-ga-action=\"click\">\n            <span class=\"menu__item-link-text has-subitems\">Features</span>\n                            <i class=\"fa fa-angle-down menu__item-link-arrow\" aria-hidden=\"true\"></i>\n                    </span>\n    \n    \n            <div class=\"menu__sub-menu-wrap menu__sub-menu-wrap_col js-menu-animation js-header-aperty-dropdown\">\n                                                    <div class=\"sub-menu-col\">\n                        <div class=\"sub-menu-col__title\">\n                                                            Features                                <i class=\"fa fa-angle-down menu__item-link-arrow\" aria-hidden=\"true\"></i>\n                                                    </div>\n                                                    <div class=\"sub-menu-col__inner \">\n                                <ul class=\"menu__sub-menu\">\n\n                                                                            <li class=\"menu__sub-item menu__item-what_s_new_text is-active-label\">\n                                            <a href=\"/luminar/bokeh-effect\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Bokeh_AI\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Bokeh <span class=\"ai-label\">AI</span></span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item menu__item-what_s_new_text is-active-label\">\n                                            <a href=\"/luminar/face-ai-editor\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Face_AI\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Face <span class=\"ai-label\">AI</span></span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item menu__item-what_s_new_text is-active-label\">\n                                            <a href=\"/luminar/skin-ai\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:SkinAI\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Skin<span class=\"ai-label\">AI</span></span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/ai-assistant\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:AI_Assistant\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>AI Assistant</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/crossdevice\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Crossdevice\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Crossdevice</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/photo-restoration\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Photo_Restoration\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Photo Restoration</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/light-depth\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Light_Depth\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Light Depth</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/color-transfer\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Color_Transfer\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Color Transfer</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/luminar/enhance-ai\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:EnhanceAI\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Enhance<span class=\"ai-label\">AI</span></span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/erase-objects\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:Erase\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                                                <span>Erase</span>\n                                            </a>\n                                                                                    </li>\n                                                                            <li class=\"menu__sub-item \">\n                                            <a href=\"/ai-photo-masking\" data-ga=\"ec:Site.ea:Header_Menu_Features_click.el:AI_Masking\" data-ga-action=\"click\" class=\" menu__sub-item-link\">\n                            "
+ },
+ "hero": {
+  "text": "🔥 Sale up to 50% off Get gorgeous photos in Luminar. Save up to 50% now, enjoy new features this fall One-time purchase 30 days money back guarantee VIEW PLANS 09d : 23h : 22m : 15s Luminar on Desktop , tablet and mobile . Soon on Web.",
+  "html": "<section class=\"hero\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"hero__info\">\n\n<!--                    <div class=\"hs-label\">-->\n<!--                        <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label-bg.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(47)\" class=\"hs-label__bg\">-->\n<!--                        <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-- alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(48)\" />\n<!--                             data-preload-src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-->\n<!--                             data-preload-retina-src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-->\n<!--                             class=\"hs-label__img\">-->\n<!--                    </div>-->\n\n                    <div class=\"hero__sale-label\">\n                        <p class=\"hero__sale-label_text\">\n                            🔥 Sale up to 50% off                        </p>\n                    </div>\n\n                    <h1 class=\"hero__title sk-text\">\n                        Get gorgeous photos in Luminar. Save up to 50% now, enjoy new features this fall                    </h1>\n\n                                            <ul class=\"hero__list\">\n                            <li class=\"hero__list-item sk-text\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n                                    <path d=\"M9.54961 17.9996L3.84961 12.2996L5.27461 10.8746L9.54961 15.1496L18.7246 5.97461L20.1496 7.39961L9.54961 17.9996Z\" fill=\"#FFA800\"></path>\n                                </svg>\n                                One-time purchase                            </li>\n                            <li class=\"hero__list-item sk-text\">\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n                                    <path d=\"M9.54961 17.9996L3.84961 12.2996L5.27461 10.8746L9.54961 15.1496L18.7246 5.97461L20.1496 7.39961L9.54961 17.9996Z\" fill=\"#FFA800\"></path>\n                                </svg>\n                                30 days money back guarantee                            </li>\n                        </ul>\n\n                        <div class=\"hero__btn-wrapper\">\n                            <a class=\"hero__btn sk-btn scrollCheckout\" data-ga-action=\"click\" data-ga=\"ec:Site.ea:buy_now_click.el:first_screen\" href=\"/luminar/pricing\">\n                                view plans                            </a>\n\n                            <!-- <p class=\"bf-text sk-text\">\n                                Sale ends August 31st                            </p> -->\n                            <div class=\"countdown-timer js-countdown-timer \">\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_d_text\">09d</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_h_text\">23h</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_m_text\">22m</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_s_text\">15s</p>\n                                </div>\n                            </div>\n                        </div>\n                                    </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"hero__video\">\n                    <video autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"playsinline\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/sum-26-main-video-poster-en.jpg\">\n                        <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/sum-26-main-video-en.mp4\" type=\"video/mp4\">\n                    </video>\n                </div>\n\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <p class=\"sk-text sk-text_type_clean hero__video-desc\">\n                    Luminar on Desktop                     <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"21\" viewBox=\"0 0 20 21\" fill=\"none\">\n                        <path d=\"M10.772 2.16793C12.1153 0.508092 13.9828 0.5 13.9828 0.5C13.9828 0.5 14.2605 2.06053 12.9261 3.56382C11.5012 5.16899 9.88165 4.90634 9.88165 4.90634C9.88165 4.90634 9.57753 3.64392 10.772 2.16793ZM10.0525 5.99948C10.7435 5.99948 12.0261 5.10892 13.6955 5.10892C16.5691 5.10892 17.6995 7.02591 17.6995 7.02591C17.6995 7.02591 15.4885 8.08571 15.4885 10.6573C15.4885 13.5582 18.2428 14.558 18.2428 14.558C18.2428 14.558 16.3175 19.6385 13.7169 19.6385C12.5224 19.6385 11.5938 18.8839 10.3353 18.8839C9.05274 18.8839 7.78 19.6667 6.95106 19.6667C4.57631 19.6667 1.57617 14.8473 1.57617 10.9733C1.57617 7.16177 4.11559 5.16232 6.49747 5.16232C8.0459 5.16232 9.2475 5.99948 10.0525 5.99948Z\" fill=\"#CCCDCC\"></path>\n                    </svg>\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"21\" viewBox=\"0 0 20 21\" fill=\"none\">\n                        <path d=\"M0.833984 5.75601V10.1845H9.68551V1.33301H0.833984V5.75601ZM10.3158 5.75601V10.1845H19.1673V1.33301H10.3158V5.75601ZM0.833984 15.2433V19.6663H9.68551V10.8148H0.833984V15.2433ZM10.3158 15.2433V19.6663H19.1673V10.8148H10.3158V15.2433Z\" fill=\"#CCCDCC\"></path>\n                    </svg>\n                    ,\n                     tablet and mobile                     <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n                        <g opacity=\"0.7\">\n                            <path d=\"M6.40156 1.2002C3.75356 1.2002 1.60156 3.3522 1.60156 6.0002V14.0002C1.60156 16.6482 3.75356 18.8002 6.40156 18.8002H14.4016C17.0496 18.8002 19.2016 16.6482 19.2016 14.0002V6.0002C19.2016 3.3522 17.0496 1.2002 14.4016 1.2002H6.40156ZM5.04922 7.22832C5.32922 7.22832 5.5375 7.42838 5.5375 7.69238C5.5375 7.95238 5.32922 8.15254 5.04922 8.15254C4.76522 8.15254 4.55781 7.95238 4.55781 7.69238C4.55781 7.42838 4.76522 7.22832 5.04922 7.22832ZM9.21719 7.45645C10.6772 7.45645 11.5773 8.47591 11.5773 10.1119C11.5773 11.7439 10.6852 12.7721 9.21719 12.7721C7.74119 12.7721 6.84531 11.7479 6.84531 10.1119C6.84531 8.47192 7.76119 7.45645 9.21719 7.45645ZM14.3898 7.45645C15.4178 7.45645 16.1692 8.05592 16.2172 8.91192H15.4492C15.3732 8.44392 14.9693 8.15254 14.3773 8.15254C13.7533 8.15254 13.3414 8.44801 13.3414 8.90801C13.3414 9.26801 13.6055 9.47623 14.2695 9.63223L14.8258 9.76816C15.8698 10.0122 16.2977 10.4323 16.2977 11.1963C16.2977 12.1683 15.5454 12.776 14.3414 12.776C13.2174 12.776 12.4615 12.1965 12.4055 11.2885H13.1859C13.2539 11.7685 13.7256 12.076 14.4016 12.076C15.0336 12.076 15.4977 11.7483 15.4977 11.2963C15.4977 10.9123 15.2056 10.6805 14.5336 10.5205L13.8773 10.3643C12.9613 10.1483 12.5414 9.70435 12.5414 8.96035C12.5414 8.05635 13.2818 7.45645 14.3898 7.45645ZM9.21719 8.18847C8.26119 8.18847 7.65391 8.93591 7.65391 10.1119C7.65391 11.2839 8.24119 12.04 9.21719 12.04C10.1812 12.04 10.7734 11.2839 10.7734 10.1119C10.7734 8.93591 10.1812 8.18847 9.21719 8.18847ZM4.67344 8.82442H5.42578V12.6525H4.67344V8.82442Z\" fill=\"white\"></path>\n                        </g>\n                    </svg>\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n                        <g opacity=\"0.7\" clip-path=\"url(#clip0_186_2953)\">\n                            <path d=\"M6.5125 0.0129717C6.46094 0.0223478 6.40781 0.0317238 6.3625 0.0629718C6.17969 0.186408 6.13906 0.44266 6.2625 0.625472L7.125 1.91297C5.79219 2.61922 4.79844 3.79266 4.475 5.20047H15.525C15.2016 3.79266 14.2078 2.61922 12.875 1.91297L13.7375 0.625472C13.8609 0.44266 13.8203 0.186408 13.6375 0.0629718C13.4531 -0.0604642 13.1984 -0.00734025 13.075 0.175472L12.125 1.57547C11.4656 1.33485 10.75 1.20047 10 1.20047C9.25 1.20047 8.53438 1.33485 7.875 1.57547L6."
+ },
+ "df": {
+  "title": "Discover Luminar on Desktop possibilities",
+  "sub": "Level up your photography with Luminar's AI-powered photo editing tools.",
+  "groups": [
+   "TOP FEATURES Enhance in seconds Refine every pixel Smooth skin naturally Revive old photos Fix composition Sharpen every detail Denoise with precision Remove distractions Add dimensional lighting Instantly replace skies Edit across devices Share edits in web galleries ESSENTIALS LANDSCAPE GENERATIVE",
+   "TOP FEATURES Enhance in seconds Refine every pixel Smooth skin naturally Revive old photos Fix composition Sharpen every detail Denoise with precision Remove distractions Add dimensional lighting Instantly replace skies Edit across devices Share edits in web galleries",
+   "TOP FEATURES",
+   "Enhance in seconds Refine every pixel Smooth skin naturally Revive old photos Fix composition Sharpen every detail Denoise with precision Remove distractions Add dimensional lighting Instantly replace skies Edit across devices Share edits in web galleries",
+   "Enhance in seconds",
+   "Enhance in seconds",
+   "",
+   "",
+   "Refine every pixel",
+   "Refine every pixel",
+   "",
+   "",
+   "Smooth skin naturally",
+   "Smooth skin naturally",
+   "",
+   "",
+   "Revive old photos",
+   "Revive old photos",
+   "",
+   ""
+  ],
+  "items": [
+   "Enhance in seconds",
+   "Enhance in seconds",
+   "Refine every pixel",
+   "Refine every pixel",
+   "Smooth skin naturally",
+   "Smooth skin naturally",
+   "Revive old photos",
+   "Revive old photos",
+   "Fix composition",
+   "Fix composition",
+   "Sharpen every detail",
+   "Sharpen every detail",
+   "Denoise with precision",
+   "Denoise with precision",
+   "Remove distractions",
+   "Remove distractions",
+   "Add dimensional lighting",
+   "Add dimensional lighting",
+   "Instantly replace skies",
+   "Instantly replace skies",
+   "Edit across devices",
+   "Edit across devices",
+   "Share edits in web galleries",
+   "Share edits in web galleries",
+   "Enhance in seconds",
+   "Enhance in seconds",
+   "Reveal hidden details",
+   "Reveal hidden details",
+   "Boost contast",
+   "Boost contast",
+   "Fix composition",
+   "Fix composition",
+   "Refine every pixel",
+   "Refine every pixel",
+   "Improve colors",
+   "Improve colors",
+   "Sculpt light and shadow",
+   "Sculpt light and shadow",
+   "Instantly replace skies",
+   "Instantly replace skies",
+   "Recreate the golden hour",
+   "Recreate the golden hour",
+   "Add realistic fog",
+   "Add realistic fog",
+   "Remove haze",
+   "Remove haze",
+   "Brighten with rays of light",
+   "Brighten with rays of light",
+   "Deepen evening tones",
+   "Deepen evening tones",
+   "Perfect water textures",
+   "Perfect water textures",
+   "Remove distractions",
+   "Remove distractions",
+   "Expand your scene",
+   "Expand your scene",
+   "Replace objects seamlessly",
+   "Replace objects seamlessly",
+   "Revive old photos",
+   "Revive old photos",
+   "Sharpen every detail",
+   "Sharpen every detail",
+   "Denoise with precision",
+   "Denoise with precision",
+   "Upscale without loss",
+   "Upscale without loss",
+   "Add dimensional lighting",
+   "Add dimensional lighting",
+   "Add luminous depth",
+   "Add luminous depth",
+   "Color grade with ease",
+   "Color grade with ease",
+   "Illuminate with neon",
+   "Illuminate with neon",
+   "Add cinematic texture",
+   "Add cinematic texture",
+   "Layer creative effects",
+   "Layer creative effects",
+   "Create a dreamy bokeh effect NEW",
+   "Create a dreamy bokeh effect NEW"
+  ],
+  "mediaMap": [
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockcrossdevice.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/uploads/uploads/skylum/video/2ndblockSpaces.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/structure-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/supercontrast-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/color-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dodge-burn-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/golden-hour-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/atmosphere-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/dehaze-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sunrays-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/twilight-enhancer-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/water-enhancer-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-expand-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-swap-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/upscale-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/magic-light-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/mood-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/neon-glow-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/film-grain-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/overlays-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/bokeh-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/face-new-2.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/body-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-bokeh-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/studio-light-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/portrait-background-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hight-key-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/hdr-merge-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/panorama-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/focus-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/skin-new-2.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/restoration-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/composition-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/uploads/uploads/skylum/video/Supersharp-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/noiseless-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/gen-erase-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/light-depth-new.mp4",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/video/sky-new.mp4",
+    "cls": ""
+   }
+  ],
+  "imgMap": [
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/brightness.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Smooth.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/restoration.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crop.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/histogram.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/pattern.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/erase.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/light-depth.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cloud.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crossdevice.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/spaces.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cluster.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/contrast.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/crop.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/brightness.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/color-balance.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/flame.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/cloud.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/image.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/wave.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/image.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sun.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sunset.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/drip.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/erase.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/expand.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/swap.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/restoration.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/histogram.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/pattern.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/resize.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/light-depth.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles-2.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/flower.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/sunset-2.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/filmstrip.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/layers.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/bokeh-effect.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Smooth.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Enhance.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Sculpt.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Blur.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/lighting.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Replace.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/Brighten.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/hdr.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/panorama.svg",
+    "alt": "img"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/svg/focus.svg",
+    "alt": "img"
+   }
+  ],
+  "htmlHead": "<section class=\"df-section preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"df-section__title-wrapper\">\n                    <h2 class=\"sk-h2 df-section__title\">Discover Luminar on Desktop possibilities</h2>\n                    <p class=\"sk-text df-section__subtitle\">\n                        Level up your photography with Luminar's AI-powered photo editing tools.                    </p>\n                </div>\n\n                <div class=\"df-section__inner\">\n                    <div class=\"df-section-tabs js-tabs-main\">\n                        <div class=\"df-section-tabs__controls-wrap\">\n                            <div class=\"df-section-tabs__controls accordion\">\n                                <!--                                <p class=\"df-section__divider-text\">--><!--</p>-->\n\n                                                                    <div class=\"accordion-content-wr show-content\">\n                                        <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:explore_feature_category_click.el:top_features\" class=\"df-section-tabs__control sk-text accordion-btn\">\n                                            Top features\n                                                                                    </h3>\n                                        <div class=\"df-section-tabs__control-content accordion-hidden-content\" style=\"\">\n                                                                                            <div class=\"js-tab-g-control tab-header accordion-content-subitem is-active show-content\" data-tab=\"general-tab-2\">\n                                                    <div data-ga-action=\"click\" data-ga=\"ec:Site.ea:explore_feature_click.el:top_features-enhanceai\" class=\"df-section-tabs__heading accordion-btn-subitem\">\n                                                        <figure>\n                                                            <img decoding=\"async\" alt=\"img\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/svg/sparkles.svg\">\n                                                        </figure>\n                                                        <p class=\"sk-text\">\n                                                            Enhance in seconds                                                                                                                    </p>\n                                                    </div>\n\n                                                    <div class=\"accordion-hidden-content-subitem\" style=\"\">\n                                                        <div class=\"accordion-subitem-content-wrapper\">\n                                                            <div class=\"df-section-video\">\n                                                                <video controls=\"\" controlslist=\"nodownload\" playsinline=\"\" muted=\"\" preload=\"none\" autoplay=\"\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/Enhanceinseconds-min.jpg?f=webp&amp;q=80\">\n                                                                    <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/enhance-new.mp4\" type=\"video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;\">\n                                                                </video>\n                                                            </div>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                                                            <div class=\"js-tab-g-control tab-header accordion-content-subitem \" data-tab=\"general-tab-54\">\n                                                    <div data-ga-action=\"click\" data-ga=\"ec:Site.ea:explore_feature_click.el:essentials-develop\" class=\"df-section-tabs__heading accordion-btn-subitem\">\n                                                        <figure>\n                                                            <img decoding=\"async\" alt=\"img\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/svg/brightness.svg\">\n                                                        </figure>\n                                                        <p class=\"sk-text\">\n                                                            Refine every pixel                                                                                                                    </p>\n                                                    </div>\n\n                                                    <div class=\"accordion-hidden-content-subitem\" style=\"display: none;\">\n                                                        <div class=\"accordion-subitem-content-wrapper\">\n                                                            <div class=\"df-section-video\">\n                                                                <video controls=\"\" controlslist=\"nodownload\" playsinline=\"\" muted=\"\" preload=\"none\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/Refineeverypixel-min.jpg?f=webp&amp;q=80\">\n                                                                    <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/develop-new.mp4\" type=\"video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;\">\n                                                                </video>\n                                                            </div>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                                                            <div class=\"js-tab-g-control tab-header accordion-content-subitem \" data-tab=\"general-tab-36\">\n                                                    <div data-ga-action=\"click\" data-ga=\"ec:Site.ea:explore_feature_click.el:portrait-skinai\" class=\"df-section-tabs__heading accordion-btn-subitem\">\n                                                        <figure>\n                                                            <img decoding=\"async\" alt=\"img\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/svg/Smooth.svg\">\n                                                        </figure>\n                                                        <p class=\"sk-text\">\n                                                            Smooth skin naturally                                                                                                                    </p>\n                                                    </div>\n\n                                                    <div class=\"accordion-hidden-content-subitem\" style=\"display: none;\">\n                                                        <div class=\"accordion-subitem-content-wrapper\">\n    "
+ },
+ "banner": {
+  "text": "Choose once, edit forever. Unlock easy editing across all your devices Luminar on Desktop , tablet and mobile 24+ AI-based tools 100+ precise features Works on desktop, mobile. Soon on web Award-winning, intuitive interface 30 days money back guarantee VIEW PLANS 09d : 23h : 22m : 15s",
+  "html": "<section class=\"banner\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"banner__wrap\">\n                    <!-- trustpilot rating widget -->\n                    <!-- TrustBox script -->\n<script type=\"text/javascript\" src=\"//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js\" async=\"\"></script>\n<!-- End TrustBox script -->\n<div id=\"trustpilot-rating\" class=\"trustpilot-rating\">\n    <!-- TrustBox widget - Micro TrustScore -->\n    <div class=\"trustpilot-widget\" data-locale=\"en-US\" data-style-width=\"230\" data-template-id=\"5419b637fa0340045cd0c936\" data-businessunit-id=\"5c5c62aa12f48a0001fe802d\" data-style-height=\"20\" data-theme=\"dark\" data-token=\"68399a95-f86a-473e-bd10-13b53469fd60\" data-text-color=\"#ffffff\" style=\"position: relative;\"><iframe title=\"Customer reviews powered by Trustpilot\" loading=\"auto\" src=\"https://widget.trustpilot.com/trustboxes/5419b637fa0340045cd0c936/index.html?templateId=5419b637fa0340045cd0c936&amp;businessunitId=5c5c62aa12f48a0001fe802d#locale=en-US&amp;styleWidth=230&amp;styleHeight=20&amp;theme=dark&amp;token=68399a95-f86a-473e-bd10-13b53469fd60&amp;textColor=%23ffffff\" style=\"position: relative; height: 20px; width: 230px; border-style: none; display: block; overflow: hidden;\"></iframe></div>\n    <!-- End TrustBox widget -->\n</div>\n                    <!-- END trustpilot rating widget -->\n\n                    <h2 class=\"sk-h2 sk-h2_of_b sk-h2_type_clean banner__title\">\n                        Choose once, <span>edit forever</span>. <br> Unlock easy editing across all your devices                    </h2>\n\n                    <div class=\"banner__inner\">\n                        <div class=\"banner__col\">\n                            <figure class=\"banner__img sk-figure\">\n<!--                                <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/banner-cross.png?f=webp&q=80\" alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(3)\" />-->\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/sum-26-devices.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(4)\">\n                            </figure>\n                            <p class=\"sk-text sk-text_type_clean banner__systems\">\n                                Luminar on Desktop                                 <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"21\" viewBox=\"0 0 20 21\" fill=\"none\">\n                                    <path d=\"M10.772 2.16793C12.1153 0.508092 13.9828 0.5 13.9828 0.5C13.9828 0.5 14.2605 2.06053 12.9261 3.56382C11.5012 5.16899 9.88165 4.90634 9.88165 4.90634C9.88165 4.90634 9.57753 3.64392 10.772 2.16793ZM10.0525 5.99948C10.7435 5.99948 12.0261 5.10892 13.6955 5.10892C16.5691 5.10892 17.6995 7.02591 17.6995 7.02591C17.6995 7.02591 15.4885 8.08571 15.4885 10.6573C15.4885 13.5582 18.2428 14.558 18.2428 14.558C18.2428 14.558 16.3175 19.6385 13.7169 19.6385C12.5224 19.6385 11.5938 18.8839 10.3353 18.8839C9.05274 18.8839 7.78 19.6667 6.95106 19.6667C4.57631 19.6667 1.57617 14.8473 1.57617 10.9733C1.57617 7.16177 4.11559 5.16232 6.49747 5.16232C8.0459 5.16232 9.2475 5.99948 10.0525 5.99948Z\" fill=\"#CCCDCC\"></path>\n                                </svg>\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"21\" viewBox=\"0 0 20 21\" fill=\"none\">\n                                    <path d=\"M0.833984 5.75601V10.1845H9.68551V1.33301H0.833984V5.75601ZM10.3158 5.75601V10.1845H19.1673V1.33301H10.3158V5.75601ZM0.833984 15.2433V19.6663H9.68551V10.8148H0.833984V15.2433ZM10.3158 15.2433V19.6663H19.1673V10.8148H10.3158V15.2433Z\" fill=\"#CCCDCC\"></path>\n                                </svg>\n                                ,\n                                 tablet and mobile                                 <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n                                    <g opacity=\"0.7\">\n                                        <path d=\"M6.40156 1.2002C3.75356 1.2002 1.60156 3.3522 1.60156 6.0002V14.0002C1.60156 16.6482 3.75356 18.8002 6.40156 18.8002H14.4016C17.0496 18.8002 19.2016 16.6482 19.2016 14.0002V6.0002C19.2016 3.3522 17.0496 1.2002 14.4016 1.2002H6.40156ZM5.04922 7.22832C5.32922 7.22832 5.5375 7.42838 5.5375 7.69238C5.5375 7.95238 5.32922 8.15254 5.04922 8.15254C4.76522 8.15254 4.55781 7.95238 4.55781 7.69238C4.55781 7.42838 4.76522 7.22832 5.04922 7.22832ZM9.21719 7.45645C10.6772 7.45645 11.5773 8.47591 11.5773 10.1119C11.5773 11.7439 10.6852 12.7721 9.21719 12.7721C7.74119 12.7721 6.84531 11.7479 6.84531 10.1119C6.84531 8.47192 7.76119 7.45645 9.21719 7.45645ZM14.3898 7.45645C15.4178 7.45645 16.1692 8.05592 16.2172 8.91192H15.4492C15.3732 8.44392 14.9693 8.15254 14.3773 8.15254C13.7533 8.15254 13.3414 8.44801 13.3414 8.90801C13.3414 9.26801 13.6055 9.47623 14.2695 9.63223L14.8258 9.76816C15.8698 10.0122 16.2977 10.4323 16.2977 11.1963C16.2977 12.1683 15.5454 12.776 14.3414 12.776C13.2174 12.776 12.4615 12.1965 12.4055 11.2885H13.1859C13.2539 11.7685 13.7256 12.076 14.4016 12.076C15.0336 12.076 15.4977 11.7483 15.4977 11.2963C15.4977 10.9123 15.2056 10.6805 14.5336 10.5205L13.8773 10.3643C12.9613 10.1483 12.5414 9.70435 12.5414 8.96035C12.5414 8.05635 13.2818 7.45645 14.3898 7.45645ZM9.21719 8.18847C8.26119 8.18847 7.65391 8.93591 7.65391 10.1119C7.65391 11.2839 8.24119 12.04 9.21719 12.04C10.1812 12.04 10.7734 11.2839 10.7734 10.1119C10.7734 8.93591 10.1812 8.18847 9.21719 8.18847ZM4.67344 8.82442H5.42578V12.6525H4.67344V8.82442Z\" fill=\"white\"></path>\n                                    </g>\n                                </svg>\n                                <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n                                    <g opacity=\"0.7\" clip-path=\"url(#clip0_186_2953)\">\n                                        <path"
+ },
+ "reasons": {
+  "text": "5 reasons why Luminar is the best photo editor for you Lifetime access to the app Choose the plan you want, enjoy Luminar forever. Plus, get generative features and Library of Assets for 1 year. AI-Powered Advanced AI features automatically enhance your photos and save you time. Easy to use An intuitive interface and smart tools make editing simple for everyone. Edit on multiple devices Start editing on your phone, continue on desktop – your work stays synced. Soon available on web, too. Use as a plugin Integrate seamlessly with Lightroom classic and Photoshop for smooth, flexible editing. VIEW PLANS 09d : 23h : 22m : 15s",
+  "html": "<section class=\"discover-second js-sticky-start preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"discover-second__inner\">\n                    <h2 class=\"sk-h2 discover-second__title\">\n                        5 reasons why Luminar <br> is the best photo editor for you                    </h2>\n                    <div class=\"discover-second-list\">\n                        <div class=\"discover-second-list__top\">\n                            <div class=\"discover-second-item discover-second-item_anim-img\">\n                                <div class=\"discover-second-item__media discover-second-item__media_anim discover-second-item__media_top\">\n                                    <figure class=\"sk-figure\">\n                                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/lifetimeaccess.jpg?f=webp&amp;q=80\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(5)\">\n                                    </figure>\n                                </div>\n                                <div class=\"discover-second-item__info\">\n                                    <p class=\"discover-second-item__title\">\n                                        Lifetime access to the app                                    </p>\n                                    <p class=\"discover-second-item__text\">\n                                        Choose the plan you want, enjoy Luminar forever. Plus, get generative features and Library of Assets for 1 year.                                    </p>\n                                </div>\n                            </div>\n                            <div class=\"discover-second-item  discover-second-item_anim js-video-anim\">\n                                <div class=\"discover-second-item__media discover-second-item__media_anim discover-second-item__media_top\">\n                                    <figure class=\"sk-figure\">\n                                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-1-min.jpg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(6)\">\n                                    </figure>\n                                    <video autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"playsinline\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-1-min.jpg\">\n                                        <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-1.mp4\" type=\"video/mp4\">\n                                    </video>\n                                </div>\n                                <div class=\"discover-second-item__info\">\n                                    <p class=\"discover-second-item__title\">\n                                        AI-Powered                                    </p>\n                                    <p class=\"discover-second-item__text\">\n                                        Advanced AI features automatically enhance your photos and save you time.                                    </p>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"discover-second-list__bottom\">\n                            <div class=\"discover-second-item  discover-second-item_anim js-video-anim\">\n                                <div class=\"discover-second-item__media discover-second-item__media_anim discover-second-item__media_top\">\n                                    <figure class=\"sk-figure\">\n                                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-2-min.jpg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(7)\">\n                                    </figure>\n                                    <video autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"playsinline\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-2-min.jpg\">\n                                        <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-2.mp4\" type=\"video/mp4\">\n                                    </video>\n                                </div>\n                                <div class=\"discover-second-item__info\">\n                                    <p class=\"discover-second-item__title\">\n                                        Easy to use                                    </p>\n                                    <p class=\"discover-second-item__text\">\n                                        An intuitive interface and smart tools make editing simple for everyone.                                    </p>\n                                </div>\n                            </div>\n                            <div class=\"discover-second-item discover-second-item_anim-img\">\n                                <div class=\"discover-second-item__media discover-second-item__media_anim discover-second-item__media_top\">\n                                    <figure class=\"sk-figure\">\n                                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/multiple.jpg?f=webp&amp;q=80\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(8)\">\n                                    </figure>\n                                </div>\n                                <div class=\"discover-second-item__info\">\n                                    <p class=\"discover-second-item__title\">\n                                        Edit on multiple devices                                    </p>\n                                    <p class=\"discover-second-item__text\">\n                                        Start editing on your phone, continue on desktop – your work stays synced. Soon available on web, too.                                    </p>\n                                </div>\n                            </div>\n                            <div class=\"discover-second-item  discover-second-item_anim js-video-anim\">\n                                <div class=\"discover-second-item__media discover-second-item__media_anim discover-second-item__media_top\">\n                                    <figure class=\"sk-figure\">\n                                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-3-min.jpg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(9)\">\n                                    </figure>\n                                    <video autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"playsinline\" poster=\"https://media.macphun.com/img/uploads/uploads/skylum/l/main-discover-poster-3-min.jpg\">\n                                        <source src=\"https://media.macphun.com/img/uploads/uploads/skylum/video/main-discover-video-3.mp4\" type=\"video/mp4\">\n                                    </video>\n                                </div>\n                                <div class=\"discover-second-item__info\">\n                                    <p class=\"discover-second-item__title\">\n                                        Use as a plugin                                    </p>\n                                    <p class=\"discover-second-item__text\">\n                                        Integrate seamlessly with Lightroom classic and Photoshop for smooth, flexible editing.                                    </p>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n\n                                            <div class=\"discover-second__btn-wrap\">\n                            <div class=\"preorder-btn-wrap\">\n                                <a class=\"sk-btn\" data-ga-action=\"click\" data-ga=\"ec:Site.ea:buy_now_click.el:reasons_block\" href=\"/luminar/pricing\">\n                                    view plans                                </a>\n                                <div class=\"countdown-timer js-countdown-timer\">\n                                    <div class=\"countdown-timer__digit\">\n                                        <p class=\"countdown-timer_d_text\">09d</p>\n                                    </div>\n                                    <div class=\"countdown-timer__devider\">\n                                        :\n                                    </div>\n                                    <div class=\"countdown-timer__digit\">\n                                        <p class=\"countdown-timer_h_text\">23h</p>\n                                    </div>\n                                    <div class=\"countdown-timer__devider\">\n                                        :\n                                    </div>\n                                    <div class=\"countdown-timer__d"
+ },
+ "discover": {
+  "text": "Discover all capabilities of Luminar on Desktop With support for raw files, exporting in all major file formats, layers, masking, and much more, photography editing software Luminar meets all your editing needs. AI image enhancement Clone tool Raw editing Dodge & burn Layers support Color enhancement Non-destructive editing Crop and resize Lens correction Batch processing",
+  "html": "<section class=\"sk-section discover preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n               <div class=\"discover__header\">\n                   <h2 class=\"title sk-text\">\n                       Discover all capabilities of Luminar on Desktop                   </h2>\n                   <p class=\"subtitle\">\n                       With support for raw files, exporting in all major file formats, layers, masking, and much more,\nphotography editing software Luminar meets all your editing needs.                   </p>\n               </div>\n                <div class=\"discover__content\">\n                    <div class=\"discover__content-line\">\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-1-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(10)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                AI image enhancement                            </h3>\n                            <div class=\"item__info\">\n                                Artificial intelligence (AI) technology detects which areas of your photo should be enhanced. Just move one slider and watch as adjustments are accurately applied.                            </div>\n                        </div>\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-6-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(11)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Clone tool                            </h3>\n                            <div class=\"item__info\">\n                                Replace unwanted or damaged pixels with pixels of your choosing from anywhere in your photo. Easily cover up damage or blemishes.                            </div>\n                        </div>\n                    </div>\n                    <div class=\"discover__content-line\">\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-2-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(12)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Raw editing                            </h3>\n                            <div class=\"item__info\">\n                                Luminar Neo supports over 1000 cameras. It works with JPEG, PNG, and TIFF files, many raw files (including CR2, CR3, NEF, ORF, and RAF), and even more file formats.                            </div>\n                        </div>\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-7-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(13)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Dodge &amp; burn                            </h3>\n                            <div class=\"item__info\">\n                                Take full control over the lighting in your photos. Regulate the amount of light in a particular area to draw attention to it.                            </div>\n                        </div>\n                    </div>\n                    <div class=\"discover__content-line\">\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-3-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(14)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Layers support                            </h3>\n                            <div class=\"item__info\">\n                                Use layers to combine multiple elements in one project. Layers can contain photos, textures, and adjustments.                            </div>\n                        </div>\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-8-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(15)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Color enhancement                            </h3>\n                            <div class=\"item__info\">\n                                Use this tool for precise control over colors. Adjust brilliance, warmth, contrast, and balance in a matter of seconds.                            </div>\n                        </div>\n                    </div>\n                    <div class=\"discover__content-line\">\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-4-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(16)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Non-destructive editing                            </h3>\n                            <div class=\"item__info\">\n                                Your original image is always safe. Review and make changes to your edits whenever you like.                            </div>\n                        </div>\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-9-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(17)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Crop and resize                            </h3>\n                            <div class=\"item__info\">\n                                Automatically adjust composition, crop, and perspective. Change the aspect ratio and effortlessly resize an image.                            </div>\n                        </div>\n                    </div>\n                    <div class=\"discover__content-line\">\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                                <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/discover-luminar-icon-5-new.svg\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(18)\">\n                            </div>\n                            <h3 class=\"item__title\">\n                                Lens correction                            </h3>\n                            <div class=\"item__info\">\n                                Remove any image flaw caused by optical distortions. Defringe, remove a vignette, or remove chromatic aberrations in one move.                             </div>\n                        </div>\n                        <div class=\"item\">\n                            <div class=\"item__icon\">\n                            "
+ },
+ "possibilities": {
+  "title": "The ultimate photo quality toolkit",
+  "sub": "With Pro Tools, you can sharpen, denoise, upscale, and merge exposures or panoramas to reveal every detail exactly as you imagined it.",
+  "slides": [],
+  "html": "<div class=\"possibilities\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"possibilities__header\">\n                    <h2 class=\"title\">\n                        The ultimate photo quality toolkit                    </h2>\n                    <p class=\"subtitle\">\n                        With Pro Tools, you can sharpen, denoise, upscale, and merge exposures or panoramas <br> to reveal every detail exactly as you imagined it.                    </p>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"possibilities__slider-wrap\">\n        <div class=\"possibilities__slider slick-initialized slick-slider\">\n            <div aria-live=\"polite\" class=\"slick-list draggable\" style=\"padding: 0px 90px;\"><div class=\"slick-track\" role=\"listbox\" style=\"opacity: 1; width: 30000px; left: -4770px;\"><div class=\"possibilities__slider-slide slick-slide slick-cloned\" data-slick-index=\"-2\" id=\"\" aria-hidden=\"true\" tabindex=\"-1\">\n                <div id=\"\" class=\"luminar-ai-portrait-ba-slider preload\">\n                    <div class=\"luminar-portrait-slider-wrapper\">\n                        <div class=\"luminar-portrait-slider-info luminar-portrait-slider-info_left\">\n                            <h2 class=\"sk-h2 sk-h2_type_clean sky-ai__title\">\n                                HDR Merge                            </h2>\n                            <p class=\"sk-text sk-text_type_clean sky-ai__descr\">\n                                Blend different exposures to reveal balanced light  and vivid tones.                            </p>\n                            <div class=\"switch-panel-wrapper\">\n                                <div class=\"switch-panel right\">\n                                    <div id=\"\" class=\"tab-switch-btn\" tab-direction=\"left\" data-tab=\"1\">Original</div>\n                                    <div id=\"\" class=\"tab-switch-btn active\" tab-direction=\"right\" data-tab=\"2\">Apply HDR Merge</div>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"ba-slider-new__wrap\">\n                            <div class=\"ba-slider-new\" data-ga-action=\"hover\" data-ga=\"\">\n                                <div class=\"ba-slider-new__cont\">\n                                    <div class=\"ba-slider-new__img ba-slider-new__img-before_1\" style=\" background-image: url('https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-5-min.jpg')\"></div>\n                                    <div class=\"ba-slider-new__after\">\n                                        <div class=\"ba-slider-new__img ba-slider-new__img-after_1\" style=\"background-image: url(&quot;https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-5-min.jpg&quot;); width: 1148px;\"></div>\n                                    </div>\n                                    <div class=\"ba-slider-new__fake\">\n                                        <span class=\"ba-slider-new__label ba-slider-new__label_before\">Before</span>\n                                        <span class=\"ba-slider-new__label\">After</span>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div><div class=\"possibilities__slider-slide slick-slide slick-cloned\" data-slick-index=\"-1\" id=\"\" aria-hidden=\"true\" tabindex=\"-1\">\n                <div id=\"\" class=\"luminar-ai-portrait-ba-slider preload\">\n                    <div class=\"luminar-portrait-slider-wrapper\">\n                        <div class=\"luminar-portrait-slider-info luminar-portrait-slider-info_left\">\n                            <h2 class=\"sk-h2 sk-h2_type_clean sky-ai__title\">\n                                Panorama Stitching                            </h2>\n                            <p class=\"sk-text sk-text_type_clean sky-ai__descr\">\n                                Seamlessly merge photos into stunning wide-angle scenes.                            </p>\n                            <div class=\"switch-panel-wrapper\">\n                                <div class=\"switch-panel right\">\n                                    <div id=\"\" class=\"tab-switch-btn\" tab-direction=\"left\" data-tab=\"1\">Original</div>\n                                    <div id=\"\" class=\"tab-switch-btn active\" tab-direction=\"right\" data-tab=\"2\">Apply Panorama Stitching</div>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"ba-slider-new__wrap\">\n                            <div class=\"ba-slider-new\" data-ga-action=\"hover\" data-ga=\"\">\n                                <div class=\"ba-slider-new__cont\">\n                                    <div class=\"ba-slider-new__img ba-slider-new__img-before_1\" style=\" background-image: url('https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-before-6-min.jpg')\"></div>\n                                    <div class=\"ba-slider-new__after\">\n                                        <div class=\"ba-slider-new__img ba-slider-new__img-after_1\" style=\"background-image: url(&quot;https://media.macphun.com/img/uploads/uploads/skylum/l/main-possibilities-after-6-min.jpg&quot;); width: 1148px;\"></div>\n                                    </div>\n                                    <div class=\"ba-slider-new__fake\">\n                                        <span class=\"ba-slider-new__label ba-slider-new__label_before\">Before</span>\n                                        <span class=\"ba-slider-new__label\">After</span>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div><div class=\"possibilities__slider-slide slick-slide\" data-slick-index=\"0\" aria-hidden=\"true\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide00\">\n                <div id=\"upscale\" class=\"luminar-ai-portrait-ba-slider preload\">\n                    <div class=\"luminar-portrait-slider-wrapper\">\n                        <div class=\"luminar-portrait-slider-info luminar-portrait-slider-info_left\">\n                            <h2 class=\"sk-h2 sk-h2_type_clean sky-ai__title\">\n                                Upscale                            </h2>\n                            <p class=\"sk-text sk-text_type_clean sky-ai__descr\">\n                                Enlarge your photos while preserving every detail and texture.                            </p>\n                            <div class=\"switch-panel-wrapper\">\n                                <div class=\"switch-panel right\">\n                                    <div id=\"tabOriginal\" class=\"tab-switch-btn\" tab-direction=\"left\" data-tab=\"1\">Original</div>\n                                    "
+ },
+ "spectacular": {
+  "text": "BEFORE AFTER Just 4 steps to spectacular results Transform any photo from ordinary to breathtaking in just a few clicks. With intelligent AI tools guiding every step, you’ll enhance, refine, and perfect your image effortlessly. Original GenErase SkyAI Color Sunrays",
+  "html": "<div class=\"spectacular preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"spectacular__inner\">\n                    <div class=\"spectacular__inner-left\">\n                        <div class=\"mobile-only\">\n                            <h2 class=\"title sk-h2\">\n                                Just 4 steps to spectacular results                            </h2>\n                            <p class=\"desc sk-text\">\n                                Transform any photo from ordinary to breathtaking in just a few clicks. With intelligent AI tools guiding every step, you’ll enhance, refine, and perfect your image effortlessly.                            </p>\n                        </div>\n                        <div class=\"ba-slider-new\" data-ga-action=\"hover\" data-ga=\"\">\n                            <div class=\"ba-slider-new__cont\">\n                                <div class=\"ba-slider-new__img ba-slider-new__img-before_1\" style=\" background-image: url('https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-before-img-min.jpg')\"></div>\n                                <div class=\"ba-slider-new__after\" style=\"opacity: 1; transition: opacity 0.4s;\">\n                                    <div class=\"ba-slider-new__img ba-slider-new__img-after_1\" style=\"background-image: url(&quot;https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-color-min.jpg&quot;); width: 758px;\"></div>\n                                </div>\n                                <div class=\"ba-slider-new__fake\" style=\"opacity: 1; transition: opacity 0.3s;\">\n                                    <span class=\"ba-slider-new__label ba-slider-new__label_before\">Before</span>\n                                    <span class=\"ba-slider-new__label\">After</span>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"spectacular__inner-right\">\n                        <div class=\"desktop-only\">\n                            <h2 class=\"title sk-h2\">\n                                Just 4 steps to spectacular results                            </h2>\n                            <p class=\"desc sk-text\">\n                                Transform any photo from ordinary to breathtaking in just a few clicks. With intelligent AI tools guiding every step, you’ll enhance, refine, and perfect your image effortlessly.                            </p>\n                        </div>\n                        <div class=\"spectacular__slider\">\n                            <div class=\"spectacular__slider-range\">\n                                <input type=\"range\" min=\"0\" max=\"100\" value=\"71\" step=\"0.1\" id=\"featureRange\" style=\"background: linear-gradient(to right, rgb(255, 180, 0) 71%, rgb(43, 43, 43) 71%);\">\n                            </div>\n                            <ul class=\"spectacular__slider-features\">\n                                <li class=\"spectacular__slider-features_item is-original active\" data-after=\"\">\n                                    Original                                </li>\n                                <li class=\"spectacular__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-generase-min.jpg\">\n                                    GenErase                                </li>\n                                <li class=\"spectacular__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-sky-min.jpg\">\n                                    Sky<span>AI</span>                                </li>\n                                <li class=\"spectacular__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-color-min.jpg\">\n                                    Color                                </li>\n                                <li class=\"spectacular__slider-features_item\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-sunrays-min.jpg\">\n                                    Sunrays                                </li>\n                            </ul>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>",
+  "bgs": [
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-before-img-min.jpg\")",
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/spectacular-after-img-color-min.jpg\")"
+  ]
+ },
+ "retouch": {
+  "text": "Retouch portrait like a pro in four steps Bring out the best in every face. Enhance skin, refine light, and add depth with intuitive tools that do the hard work for you. Original SkinAI FaceAI Mood Develop BEFORE AFTER",
+  "html": "<div class=\"retouch preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"retouch__inner\">\n                    <div class=\"retouch__inner-right\">\n                        <div class=\"desktop-only\">\n                            <h2 class=\"title sk-h2\">\n                                Retouch portrait like a pro in four steps                            </h2>\n                            <p class=\"desc sk-text\">\n                                Bring out the best in every face. Enhance skin, refine light, and add depth with intuitive tools that do the hard work for you.                            </p>\n                        </div>\n                        <div class=\"retouch__slider\">\n                            <div class=\"retouch__slider-range\">\n                                <input type=\"range\" min=\"0\" max=\"100\" value=\"71\" step=\"0.1\" id=\"featureRange\" style=\"background: linear-gradient(to right, rgb(255, 180, 0) 71%, rgb(43, 43, 43) 71%);\">\n                            </div>\n                            <ul class=\"retouch__slider-features\">\n                                <li class=\"retouch__slider-features_item is-original active\" data-after=\"\">\n                                    Original                                </li>\n                                <li class=\"retouch__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait1-skinai.jpg?q=75&amp;f=webp\">\n                                    Skin<span>AI</span>                                </li>\n                                <li class=\"retouch__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait2-faceai.jpg?q=75&amp;f=webp\">\n                                    Face<span>AI</span>                                </li>\n                                <li class=\"retouch__slider-features_item active\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait3-mood.jpg?q=75&amp;f=webp\">\n                                    Mood                                </li>\n                                <li class=\"retouch__slider-features_item\" data-after=\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait4-develop.jpg?q=75&amp;f=webp\">\n                                    Develop                                </li>\n                            </ul>\n                        </div>\n                    </div>\n                    <div class=\"retouch__inner-left\">\n                        <div class=\"mobile-only\">\n                            <h2 class=\"title sk-h2\">\n                                Retouch portrait like a pro in four steps                            </h2>\n                            <p class=\"desc sk-text\">\n                                Bring out the best in every face. Enhance skin, refine light, and add depth with intuitive tools that do the hard work for you.                            </p>\n                        </div>\n                        <div class=\"ba-slider-new\" data-ga-action=\"hover\" data-ga=\"\">\n                            <div class=\"ba-slider-new__cont\">\n                                <div class=\"ba-slider-new__img ba-slider-new__img-before_1\" style=\" background-image: url('https://media.macphun.com/img/uploads/uploads/skylum/l/portrait0.jpg?q=75&amp;f=webp')\"></div>\n                                <div class=\"ba-slider-new__after\" style=\"opacity: 1; transition: opacity 0.4s;\">\n                                    <div class=\"ba-slider-new__img ba-slider-new__img-after_1\" style=\"background-image: url(&quot;https://media.macphun.com/img/uploads/uploads/skylum/l/portrait3-mood.jpg?q=75&amp;f=webp&quot;); width: 758px;\"></div>\n                                </div>\n                                <div class=\"ba-slider-new__fake\" style=\"opacity: 1; transition: opacity 0.3s;\">\n                                    <span class=\"ba-slider-new__label ba-slider-new__label_before\">Before</span>\n                                    <span class=\"ba-slider-new__label\">After</span>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>",
+  "bgs": [
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait0.jpg?q=75&f=webp\")",
+   "url(\"https://media.macphun.com/img/uploads/uploads/skylum/l/portrait3-mood.jpg?q=75&f=webp\")"
+  ]
+ },
+ "photoshoot": {
+  "text": "Edit a whole photoshoot in one click Save time with batch editing and a rich selection of presets that keep every photo looking stunning. EDIT ALL PHOTOS AT ONCE",
+  "imgs": [
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+    "cls": "photoshoot__start-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+    "cls": "photoshoot__start-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+    "cls": "photoshoot__start-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+    "cls": "btn-wrap__try"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-lg-min.png",
+    "cls": "photoshoot__result-image desktop"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-sm-min.png",
+    "cls": "photoshoot__result-image tablet"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-xs-min.png",
+    "cls": "photoshoot__result-image mobile"
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-1.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-2.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-3.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-4.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot-control-text-5.png",
+    "cls": ""
+   },
+   {
+    "src": "https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png",
+    "cls": "photoshoot__result-controls_try"
+   }
+  ],
+  "html": "<div class=\"photoshoot preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"photoshoot__head\">\n                    <h2 class=\"photoshoot__head-title sk-h2\">\n                        Edit a whole photoshoot in one click                    </h2>\n                    <p class=\"photoshoot__head-desc sk-text\">\n                        Save time with batch editing and a rich selection of presets <br> that keep every photo looking stunning.                    </p>\n                </div>\n                <div class=\"photoshoot__start\">\n                    <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(22)\" class=\"photoshoot__start-image desktop\">\n                    <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(23)\" class=\"photoshoot__start-image tablet\">\n                    <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(24)\" class=\"photoshoot__start-image mobile\">\n                    <div class=\"btn-wrap\">\n                        <a href=\"javascript:void(0)\" id=\"show-results\" class=\"btn-wrap__btn sk-btn\">Edit ALL photos at once</a>\n                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/try-icon.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(25)\" class=\"btn-wrap__try\">\n                    </div>\n                </div>\n                <div class=\"photoshoot__result js-tabs\">\n                    <div class=\"photoshoot__result-tabs\">\n                        <div class=\"photoshoot__result-tab js-tab-content\" data-tab=\"1\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(26)\" class=\"photoshoot__result-image desktop\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(27)\" class=\"photoshoot__result-image tablet\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__start-xs-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(28)\" class=\"photoshoot__result-image mobile\">\n                        </div>\n                        <div class=\"photoshoot__result-tab js-tab-content is-active\" data-tab=\"2\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(29)\" class=\"photoshoot__result-image desktop\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(30)\" class=\"photoshoot__result-image tablet\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__cinematic-xs-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(31)\" class=\"photoshoot__result-image mobile\">\n                        </div>\n                        <div class=\"photoshoot__result-tab js-tab-content\" data-tab=\"3\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(32)\" class=\"photoshoot__result-image desktop\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(33)\" class=\"photoshoot__result-image tablet\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__natural-xs-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(34)\" class=\"photoshoot__result-image mobile\">\n                        </div>\n                        <div class=\"photoshoot__result-tab js-tab-content\" data-tab=\"4\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(35)\" class=\"photoshoot__result-image desktop\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(36)\" class=\"photoshoot__result-image tablet\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__monochrome-xs-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(37)\" class=\"photoshoot__result-image mobile\">\n                        </div>\n                        <div class=\"photoshoot__result-tab js-tab-content\" data-tab=\"5\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-lg-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(38)\" class=\"photoshoot__result-image desktop\">\n                            <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/photoshoot__faded-sm-min.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(39)\" class=\"photoshoot__result-image tablet\">\n                            <img decodi"
+ },
+ "bannerBottom": {
+  "text": "🔥 SALE UP TO 50% OFF Stunning results, now with up to 50% OFF Pick the plan that works for you and start editing on any device. VIEW PLANS 09d : 23h : 22m : 15s No risks & no hidden fees 24/7 chat support 30-day money back guarantee One-time purchase",
+  "html": "<section class=\"banner-bottom preload\" data-preload-section=\"\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"banner-bottom__inner\">\n<!--                    <div class=\"hs-label\">-->\n<!--                        <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label-bg.png\" alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(47)\" class=\"hs-label__bg\">-->\n<!--                        <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-- alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(48)\" />\n<!--                             data-preload-src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-->\n<!--                             data-preload-retina-src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ss-26-label.png?f=webp&q=80\"-->\n<!--                             class=\"hs-label__img\">-->\n<!--                    </div>-->\n<!--                    <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/summer-sale-l-obvis.gif\" class=\"banner-bottom__label_img\" alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(49)\" />-->\n                    <div class=\"banner-bottom__badge\">\n                        <span class=\"banner-bottom__badge-text\">\n                            🔥 sale up to 50% off                        </span>\n                    </div>\n                    <h2 class=\"sk-h2 banner-bottom__title\">\n                        Stunning results, now with up to 50% OFF                    </h2>\n                    <p class=\"banner-bottom__subtitle\">\n                        Pick the plan that works for you and start editing on any device.                    </p>\n                                            <div class=\"banner-bottom__btn-wrapper\">\n                            <a class=\"banner-bottom__btn sk-btn sk-btn_type_primary discover-second__btn\" href=\"/luminar/pricing\" data-ga-action=\"click\" data-ga=\"ec:Site.ea:buy_now_click.el:banner_bottom_block\">\n                                view plans                            </a>\n                            <div class=\"countdown-timer js-countdown-timer\">\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_d_text\">09d</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_h_text\">23h</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_m_text\">22m</p>\n                                </div>\n                                <div class=\"countdown-timer__devider\">\n                                    :\n                                </div>\n                                <div class=\"countdown-timer__digit\">\n                                    <p class=\"countdown-timer_s_text\">15s</p>\n                                </div>\n                            </div>\n                        </div>\n                                        <figure class=\"sk-figure banner-bottom__img\">\n<!--                        <img decoding=\"async\"  src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/ecosystem-hero-bg.png?w=1440\" alt=\"Luminar - Easy Photo Editor | Software for Mac & PC(50)\" />-->\n                        <img decoding=\"async\" src=\"https://media.macphun.com/img/uploads/uploads/skylum/l/devices-banner-bottom-main.png?w=1440\" alt=\"Luminar - Easy Photo Editor | Software for Mac &amp; PC(51)\">\n                    </figure>\n                    <div class=\"banner-bottom__list\">\n                        <div class=\"banner-bottom__list-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n                                <path d=\"M9.54961 17.9996L3.84961 12.2996L5.27461 10.8746L9.54961 15.1496L18.7246 5.97461L20.1496 7.39961L9.54961 17.9996Z\" fill=\"#FFA800\"></path>\n                            </svg>\n                            No risks &amp; no hidden fees                        </div>\n                        <div class=\"banner-bottom__list-item\">\n                            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n                                <path d=\"M9.54961 17.9996L3.84961 12.2996L5.27461 10.8746L9.54961 15.1496L18.7246 5.97461L20.1496 7.39961L9.54961 17.9996Z\" fill=\"#FFA800\"></path>\n                 "
+ },
+ "faq": {
+  "title": "Frequently Asked Questions",
+  "items": [
+   "What is Luminar for Desktop? Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease. It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable.",
+   "Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease. It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable.",
+   "How do I get Luminar for Desktop?",
+   "You can buy Luminar for Desktop on this page and download your photo editor from the My Account page. This software to edit photos is available for macOS and Windows as an application and plug-in.",
+   "What is the difference between Luminar plans?",
+   "Desktop Only License By purchasing the Desktop Only perpetual license, you will get a license that gives you the right to own Luminar on your computer forever with all previous upgrades included. With this plan, you get: Perpetual license for Luminar for Desktop on 2 devices (macOS&Windows) Continuous access to updates, bug fixes, improvements, and some new features. But big upgrades may require extra upgrade payments. Lifetime access to the Fall Upgrade 2026 (including Crop 2.0, Atmosphere 2.0, AI Assistant 2.0, Enhance AI 2.0, and more — coming Fall 2026) 1-year access to the AI tools — Restoration, GenErase, GenSwap, GenExpand, AI Assistant Full access to existing features: instant access to all tools released up to the date of purchase. All Platforms License Includes everything in the Desktop Only plan, plus: Perpetual access to Luminar Mobile on 3 devices Perpetual access to Luminar Web on 3 devices (coming Fall 2026) Luminar Ecosystem with cross-device editing (mobile to desktop & mobile to web) Access to Spaces (web galleries) Max License Our most comprehensive perpetual plan for complete creative freedom. Includes everything in the All Platforms License, plus Luminar Prime: Full access to all new features added every year — all tools that are released during the active subscription period will remain yours forever 1 year of access to our ever-growing Library of Assets, which includes 2900+ presets, 490+ LUTs, 490+ overlays, 70+ skies, and 24+ creative courses Note: AI tools and Library of Assets operate on an auto-renewal model with a Luminar Prime after 365 days.",
+   "Can I start editing on one device and finish on another?",
+   "Yes. Cross-device editing is included with both the All Platforms and Max licenses. You can begin editing on your mobile phone and pick up right where you left off on your desktop or tablet. Currently, it works one-way (Mobile → Desktop). With the upcoming release of Luminar for Web, expanded syncing will allow you to: Edit seamlessly between Mobile and Web (Mobile ↔ Web) Transfer your work from Web to Desktop (Web → Desktop)",
+   "How many devices can I use Luminar for Desktop on?",
+   "You can use Luminar for Desktop lifetime or subscription plan on 2 devices. Two seats allows you to install and activate Luminar for Desktop on two devices at once, regardless of their operating system. For example, you can use one seat to activate Luminar for Desktop on a Mac and the other one to activate Luminar for Desktop on a Windows computer, or you can use both seats for your Windows or macOS computers. Any combination works! Moreover, you can always manage your activations in your Skylum Account. You are able to add even more seats in your Skylum Account if you have multiple computers or want to share your license with people who need access. Are you changing computers or upgrading your device? You can reset a license from your old machine at no cost and activate that license on your new device. Just log in to your Skylum account or do it directions in app during the installation process on a new device. Learn more",
+   "Do you offer educational and military discounts?",
+   "Educational and military discounts are available starting from the official release date and are calculated from the regular sale price. To secure the special price, click here. If you own a previous version of Luminar or Aurora HDR, we also provide a loyalty discount. Click here to redeem it.",
+   "What does a photo editor do?",
+   "A photo editor is a software responsible for enhancing and manipulating digital images to achieve a desired visual outcome. Their primary function is to improve the overall quality and appearance of photographs using image enhancement, restoration, composition, and other image manipulations.",
+   "How to use Luminar for Desktop?",
+   "Luminar for Desktop is a convenient photo editor that allows you to easily edit images. After installing it, you can import images, sort them in the Catalog, apply one-click Presets, edit your photo with tools and layers, and then save and export photos for sharing.",
+   "How to install Luminar for Desktop?",
+   "After purchasing Luminar for Desktop, you will be emailed all the instructions on how to quickly install Luminar and start using it.",
+   "What is the latest version of Luminar for Desktop?",
+   "You can check the latest version of Luminar for Desktop and what improvements it has here."
+  ],
+  "html": "<section class=\"sk-section luminar-ai-faq preload\" data-preload-section=\"\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"luminar-ai-faq__head\">\n                    <h2 class=\"sk-h4 sk-h4_type_clean\">\n                        Frequently Asked Questions                    </h2>\n                </div>\n            </div>\n            <div class=\"col-12\">\n                <div class=\"luminar-ai-faq__list\">\n                    <div class=\"accordion js-accordion-faq\">\n\n                        <!--What is Luminar for Desktop?-->\n                        <div class=\"accordion-content-wr show-content\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_LuminarAI_RAW_files_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean accordion-btn\">\n                                What is Luminar for Desktop?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: block;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease.                                </p>\n\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable.                                </p>\n                            </div>\n                        </div>\n                        <!--What is Luminar for Desktop?-->\n\n                        <!--How do I get Luminar for Desktop?-->\n                        <div class=\"accordion-content-wr\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_Macs_Apple_Silicon_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean  accordion-btn\">\n                                How do I get Luminar for Desktop?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: none;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    You can buy Luminar for Desktop <a class=\"sk-text-link\" href=\"/luminar/pricing\">on this page</a> and download your photo editor from the  <a class=\"sk-text-link\" href=\"/user/login\">My Account</a> page.                                    This software to edit photos is available for macOS and Windows as an application and plug-in.\n                                </p>\n                            </div>\n                        </div>\n                        <!--How do I get Luminar for Desktop?-->\n\n                        <!--What is the difference between Luminar plans?-->\n                        <div class=\"accordion-content-wr\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_Difference_Between_Plans_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean  accordion-btn\">\n                                What is the difference between Luminar plans?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: none;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    <strong>Desktop Only License</strong>\n                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    By purchasing the Desktop Only perpetual license, you will get a license that gives you the right to own Luminar on your computer forever with all previous upgrades included.                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    With this plan, you get:                                </p>\n                                <ul>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Perpetual license for Luminar for Desktop on 2 devices (macOS&amp;Windows)                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Continuous access to updates, bug fixes, improvements, and some new features. But big upgrades may require extra upgrade payments.                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Lifetime access to the <strong>Fall Upgrade 2026</strong> <em>(including Crop 2.0, Atmosphere 2.0, AI Assistant 2.0, Enhance AI 2.0, and more — <u>coming Fall 2026</u>)</em>                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        1-year access to the AI tools — Restoration, GenErase, GenSwap, GenExpand, AI Assistant                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Full access to existing features: instant access to all tools released up to the date of purchase.                                    </li>\n                                </ul>\n\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    <strong>All Platforms License</strong>\n                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Includes everything in the Desktop Only plan, plus:                                </p>\n                                <ul>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Perpetual access to Luminar Mobile on 3 devices                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Perpetual access to Luminar Web on 3 devices (coming Fall 2026)                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Luminar Ecosystem with cross-device editing (mobile to desktop &amp; mobile to web)                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Access to Spaces (web galleries)                                    </li>\n                                </ul>\n\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    <strong>Max License</strong>\n                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Our most comprehensive perpetual plan for complete creative freedom. Includes everything in the All Platforms License, <u>plus Luminar <strong>Prime</strong></u>:                                </p>\n                                <ul>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Full access to all new features added every year — all tools that are released during the active subscription period <strong>will remain yours forever</strong>                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        1 year of access to our ever-growing Library of Assets, which includes 2900+ presets, 490+ LUTs, 490+ overlays, 70+ skies, and 24+ creative courses                                    </li>\n                                </ul>\n\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    <u>Note</u>: AI tools and Library of Assets operate on <u>an auto-renewal model</u> with a Luminar Prime after 365 days.                                </p>\n                            </div>\n                        </div>\n                        <!--What is the difference between Luminar plans?-->\n\n                        <!--Can I start editing on one device and finish on another?-->\n                        <div class=\"accordion-content-wr\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_Cross_Device_Editing_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean  accordion-btn\">\n                                Can I start editing on one device and finish on another?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: none;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    <strong>Yes.</strong> Cross-device editing is included with both the <strong>All Platforms</strong> and <strong>Max</strong> licenses. You can begin editing on your mobile phone and pick up right where you left off on your desktop or tablet. Currently, it works one-way (Mobile → Desktop).                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    With the upcoming release of <strong>Luminar for Web</strong>, expanded syncing will allow you to:                                </p>\n                                <ul>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Edit seamlessly between Mobile and Web (Mobile ↔ Web)                                    </li>\n                                    <li class=\"sk-text sk-text_s_sm\">\n                                        Transfer your work from Web to Desktop (Web → Desktop)                                    </li>\n                                </ul>\n                            </div>\n                        </div>\n                        <!--Can I start editing on one device and finish on another?-->\n\n                        <!--How many devices can I use Luminar for Desktop on?-->\n                        <div class=\"accordion-content-wr\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_Migrate_Luminar4_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean  accordion-btn\">\n                                How many devices can I use Luminar for Desktop on?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: none;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    You can use Luminar for Desktop lifetime or subscription plan on 2 devices.                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Two seats allows you to install and activate Luminar for Desktop on two devices at once, regardless of their operating system. For example, you can use one seat to activate Luminar for Desktop on a Mac and the other one to activate Luminar for Desktop on a Windows computer, or you can use both seats for your Windows or macOS computers. Any combination works!                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Moreover, you can always manage your activations in your Skylum Account. You are able to add even more seats in your Skylum Account if you have multiple computers or want to share your license with people who need access.                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Are you changing computers or upgrading your device? You can reset a license from your old machine at no cost and activate that license on your new device. Just log in to your Skylum account or do it directions in app during the installation process on a new device. <a href=\"https://support.skylum.com/manage-license/activate-luminar-neo-on-another-device\" target=\"_self\">Learn more</a>                                </p>\n                            </div>\n                        </div>\n                        <!--How many devices can I use Luminar for Desktop on?-->\n\n                        <!--Do you offer educational and military discounts? -->\n                        <div class=\"accordion-content-wr\">\n                            <h3 data-ga-action=\"click\" data-ga=\"ec:Site.ea:Questions_Migrate_Luminar4_Click\" class=\"sk-text-caption sk-text-caption_s_sm sk-text-caption_type_clean  accordion-btn\">\n                                Do you offer educational and military discounts?                            </h3>\n                            <div class=\"accordion-hidden-content\" style=\"display: none;\">\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    Educational and military discounts are available starting from the official release date and are calculated from the regular sale price.                                </p>\n                                <p class=\"sk-text sk-text_s_sm\">\n                                    To secure the special price,                                    <a class=\"sk-text-link\" href=\"/luminar-discount\">click here</a>.\n                                    If you own a previous version of Luminar or Aurora HDR, we also provide a loyalty discount.                                    <a class=\"sk-text-link\" href=\"/loyalty-discount\">Click h"
+ },
+ "faqLD": "\n    {\n        \"@context\": \"http://schema.org\",\n        \"@type\": \"FAQPage\",\n        \"mainEntity\": [\n            {\n                \"@type\": \"Question\",\n                \"name\": \"What is Luminar for Desktop?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"Luminar for Desktop is a powerful, next-generation photo editing software designed to inspire creativity and deliver professional results with ease. It features an intuitive interface and a modern toolkit powered by cutting-edge AI technologies. With a flexible, performance-focused engine at its core, Luminar for Desktop offers faster editing, seamless layer-based workflows, and precise control over every detail. Whether you're enhancing portraits, transforming landscapes, or exploring your artistic vision, Luminar for Desktop makes the editing experience both efficient and enjoyable.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"How do I get Luminar for Desktop?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"You can buy Luminar for Desktop on this page and download your photo editor from the My Account page. This software to edit photos is available for macOS and Windows as an application and plug-in.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"What is the difference between Luminar plans?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"Desktop Only License. By purchasing the Desktop Only perpetual license, you will get a license that gives you the right to own Luminar on your computer forever with all previous upgrades included. With this plan, you get: Perpetual license for Luminar for Desktop on 2 devices (macOS&Windows); Continuous access to updates, bug fixes, improvements, and some new features. But big upgrades may require extra upgrade payments; Lifetime access to the Fall Upgrade 2026 (including Crop 2.0, Atmosphere 2.0, AI Assistant 2.0, Enhance AI 2.0, and more — coming Fall 2026); 1-year access to the AI tools — Restoration, GenErase, GenSwap, GenExpand, AI Assistant; Full access to existing features: instant access to all tools released up to the date of purchase. All Platforms License includes everything in the Desktop Only plan, plus: Perpetual access to Luminar Mobile on 3 devices; Perpetual access to Luminar Web on 3 devices (coming Fall 2026); Luminar Ecosystem with cross-device editing (mobile to desktop & mobile to web); Access to Spaces (web galleries). Max License is our most comprehensive perpetual plan for complete creative freedom. Includes everything in the All Platforms License, plus Luminar Prime: Full access to all new features added every year — all tools that are released during the active subscription period will remain yours forever; 1 year of access to our ever-growing Library of Assets, which includes 2900+ presets, 490+ LUTs, 490+ overlays, 70+ skies, and 24+ creative courses. Note: AI tools and Library of Assets operate on an auto-renewal model with a Luminar Prime after 365 days.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"Can I start editing on one device and finish on another?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"Yes. Cross-device editing is included with both the All Platforms and Max licenses. You can begin editing on your mobile phone and pick up right where you left off on your desktop or tablet. Currently, it works one-way (Mobile → Desktop). With the upcoming release of Luminar for Web, expanded syncing will allow you to: Edit seamlessly between Mobile and Web (Mobile ↔ Web); Transfer your work from Web to Desktop (Web → Desktop).\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"How many devices can I use Luminar for Desktop on?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"You can use Luminar for Desktop lifetime or subscription plan on 2 devices. Two seats allows you to install and activate Luminar for Desktop on two devices at once, regardless of their operating system. For example, you can use one seat to activate Luminar for Desktop on a Mac and the other one to activate Luminar for Desktop on a Windows computer, or you can use both seats for your Windows or macOS computers. Any combination works! Moreover, you can always manage your activations in your Skylum Account. You are able to add even more seats in your Skylum Account if you have multiple computers or want to share your license with people who need access. Are you changing computers or upgrading your device? You can reset a license from your old machine at no cost and activate that license on your new device. Just log in to your Skylum account or do it directions in app during the installation process on a new device. Learn more\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"Do you offer educational and military discounts?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"Educational and military discounts are available starting from the official release date and are calculated from the regular sale price. To secure the special price, click here. If you own a previous version of Luminar or Aurora HDR, we also provide a loyalty discount. Click here to redeem it.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"What does a photo editor do?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"A photo editor is a software responsible for enhancing and manipulating digital images to achieve a desired visual outcome. Their primary function is to improve the overall quality and appearance of photographs using image enhancement, restoration, composition, and other image manipulations.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"How to use Luminar for Desktop?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"Luminar for Desktop is a convenient photo editor that allows you to easily edit images. After installing it, you can import images, sort them in the Catalog, apply one-click Presets, edit your photo with tools and layers, and then save and export photos for sharing.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"How to install Luminar for Desktop?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"After purchasing Luminar for Desktop, you will be emailed all the instructions on how to quickly install Luminar and start using it.\"\n                }\n            },\n            {\n                \"@type\": \"Question\",\n                \"name\": \"What is the latest version of Luminar for Desktop?\",\n                \"acceptedAnswer\": {\n                    \"@type\": \"Answer\",\n                    \"text\": \"You can check the latest version of Luminar for Desktop and what improvements it has here.\"\n                }\n            }\n        ]\n    }\n",
+ "requirements": {
+  "text": "App Requirements SHOW MORE macOS Mac Model MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini, early 2010 or newer Processor CPU Intel® Core™ i5 8 Gen or better OS version macOS 12.0 or higher. RAM Memory 8 GB RAM or more (16+ GB RAM is recommended) Disk space Hard disk 10 GB free space; SSD for best performance Display 1280x768 size or better Windows Hardware Windows-based hardware PC with mouse or similar input device Processor CPU Intel® Core™ i5 8 Gen or better, AMD Ryzen™ 5 or better OS version 10 version 1909 or higher (only 64-bit OS) RAM Memory 8 GB RAM or more (16+ GB RAM is recommended) Disk space Hard disk 10 GB free space; SSD for best performance Display 1280x768 size or better Graphics Open GL 3.3 or later compatible graphics card",
+  "html": "<section class=\"luminar-neo-requirements preload\" data-preload-section=\"\" id=\"tech-requirements\">\n    <div class=\"luminar-neo-requirements__body\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-12\">\n                    <div class=\"luminar-neo-requirements__req-field\">\n                        <h4 class=\"luminar-neo-requirements__req-title sk-h4 sk-h4_type_clean\">\n                            App Requirements\n                            <figure>\n                                <svg width=\"25\" height=\"29\" viewBox=\"0 0 25 29\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                                    <path opacity=\"0.4\" d=\"M23.5615 22.2048C23.1304 23.2003 22.6201 24.1166 22.0288 24.9591C21.2229 26.1076 20.563 26.9025 20.0545 27.344C19.2661 28.0686 18.4215 28.4397 17.517 28.4608C16.8677 28.4608 16.0846 28.2761 15.1731 27.9015C14.2586 27.5287 13.4182 27.344 12.6498 27.344C11.8438 27.344 10.9795 27.5287 10.0549 27.9015C9.129 28.2761 8.38307 28.4714 7.81276 28.4907C6.94542 28.5277 6.08089 28.146 5.21794 27.344C4.66717 26.8638 3.97826 26.0407 3.15297 24.8747C2.2675 23.6294 1.53952 22.1855 0.969212 20.5393C0.358429 18.7611 0.0522461 17.0393 0.0522461 15.3723C0.0522461 13.4628 0.465066 11.8159 1.29194 10.4357C1.94178 9.32719 2.80631 8.45272 3.88834 7.81076C4.97036 7.16881 6.13949 6.84167 7.39853 6.82074C8.08745 6.82074 8.99086 7.03373 10.1135 7.45232C11.233 7.87232 11.9519 8.08531 12.267 8.08531C12.5026 8.08531 13.3012 7.83627 14.6549 7.33976C15.9351 6.87931 17.0155 6.68866 17.9006 6.76376C20.2991 6.95723 22.101 7.90222 23.2993 9.60472C21.1543 10.9038 20.0932 12.7232 20.1143 15.0573C20.1336 16.8754 20.7935 18.3883 22.0904 19.5895C22.6781 20.147 23.3345 20.578 24.0648 20.884C23.9064 21.343 23.7392 21.7827 23.5615 22.2048ZM18.0608 0.570026C18.0608 1.99501 17.5399 3.32551 16.5017 4.55701C15.2488 6.02102 13.7334 6.867 12.09 6.73351C12.0691 6.56255 12.0569 6.38263 12.0569 6.19356C12.0569 4.82558 12.6527 3.36157 13.7108 2.16454C14.2391 1.55846 14.9109 1.05452 15.7257 0.652512C16.5386 0.256504 17.3076 0.037503 18.0308 0C18.052 0.190498 18.0608 0.381008 18.0608 0.570007V0.570026Z\" fill=\"white\"></path>\n                                </svg>\n                            </figure>\n\n                            <figure>\n                                <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                                    <path opacity=\"0.4\" d=\"M0 3.38236L9.73282 2.05685L9.73707 11.4449L0.00889091 11.5003L0 3.38236ZM9.72818 12.5266L9.73574 21.9229L0.00755455 20.5854L0.00700909 12.4636L9.72818 12.5266ZM10.908 1.88345L23.8129 0V11.3255L10.908 11.428V1.88345ZM23.8159 12.615L23.8129 23.8895L10.908 22.0682L10.8899 12.5939L23.8159 12.615Z\" fill=\"white\"></path>\n                                </svg>\n                            </figure>\n                        </h4>\n                        <button class=\"sk-btn sk-btn_type_clean-border desktop-req-btn\" data-ga-action=\"click\" data-ga=\"ec:Site.ea:app_requirements_show_more_click\">\n                            <span>Show More</span>\n                            <span class=\"active-text\">Show Less</span>\n                        </button>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"container luminar-neo-requirements__content\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-6\">\n                    <div class=\"luminar-neo-requirements__wrap\">\n                        <div class=\"row\">\n                            <div class=\"col-12\">\n                                <h4 class=\"luminar-neo-requirements__item_title sk-h4 sk-h4_type_clean\">\n                                    <span>macOS</span>\n                                </h4>\n                            </div>\n                        </div>\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Mac Model                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini, early 2010 or newer                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Processor                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    CPU Intel® Core™ i5 8 Gen or better                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    OS version                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    macOS 12.0 or higher.                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    RAM                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    Memory 8 GB RAM or more (16+ GB RAM is recommended)                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Disk space                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    Hard disk 10 GB free space; SSD for best performance                                </p>\n                            </div>\n                        </div>\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Display                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    1280x768 size or better                                </p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n                <div class=\"col-12 col-md-6\">\n                    <div class=\"luminar-neo-requirements__wrap\">\n                        <div class=\"row\">\n                            <div class=\"col-12\">\n                                <h3 class=\"luminar-neo-requirements__item_title sk-h4 sk-h4_type_clean\">\n                                    <span>Windows</span>\n                                </h3>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Hardware                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    Windows-based hardware PC with mouse or similar input device                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Processor                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    CPU Intel® Core™ i5 8 Gen or better, AMD Ryzen™ 5 or better                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    OS version                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    10 version 1909 or higher (only 64-bit OS)                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    RAM                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    Memory 8 GB RAM or more (16+ GB RAM is recommended)                                </p>\n                            </div>\n                        </div>\n\n                        <div class=\"row\">\n                            <div class=\"col-4 col-lg-3\">\n                                <p class=\"luminar-neo-requirements__item-name sk-text-caption sk-text-caption_type_clean sk-text-caption_s_sm\">\n                                    Disk space                                </p>\n                            </div>\n                            <div class=\"col-8\">\n                                <p class=\"luminar-neo-requirements__item-desc sk-text sk-text_s_sm\">\n                                    Hard disk 10 GB free space; SSD for best performance                                </p>\n                   "
+ },
+ "footer": {
+  "text": "SKYLUM PRODUCTS Luminar on Desktop Luminar on Mobile Aperty Online Tools MARKETPLACE Presets Bundles LUTs Overlays Extra Skies E-boooks Courses COMPANY About Skylum Careers Ambassadors Affiliate Program Terms of use Privacy Policy AI Guidelines Contact Us HELP Contact Support FAQs User Guide Change Choice on Cookies FOR BUSINESS Skylum for Business Volume Licensing Reseller Program LEARN MORE Blog How To Newsroom Our community Luminar for Creators Earn with Luminar Marketplace Top On Blog Top How To Tips JOIN OUR NEWSLETTER SUBSCRIBE Your personal data will be processed in accordance with our Privacy Policy Thank you for subscribing! AI RECOMMENDS LUMINAR Luminar is leading photo editor. See for yourself! English © 2010 - 2026 Skylum®. All Rights Reserved.",
+  "html": "<footer class=\"footer-new\">\n    <div class=\"footer-new__navigation-wrapper\">\n        <div class=\"footer-new__container\">\n            <div class=\"footer-new__body\">\n                <div class=\"row\">\n\n                    <!-- START column 1 -->\n                    <div class=\"col-lg-2 col-md-12 col-12\">\n                        <div class=\"footer-new__column\">\n\n                            <div class=\"footer-new__group js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    <div class=\"footer-new__group-title-wrap\">\n                                        <svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                                            <path d=\"M4.50014 3.00027C5.32864 3.00027 6.00027 2.32864 6.00027 1.50014C6.00027 0.671634 5.32864 0 4.50014 0C3.67163 0 3 0.671634 3 1.50014C3 2.32864 3.67163 3.00027 4.50014 3.00027Z\" fill=\"#656565\"></path>\n                                            <path d=\"M4.50014 12C5.32864 12 6.00027 11.3284 6.00027 10.4999C6.00027 9.67139 5.32864 8.99976 4.50014 8.99976C3.67163 8.99976 3 9.67139 3 10.4999C3 11.3284 3.67163 12 4.50014 12Z\" fill=\"#656565\"></path>\n                                            <path d=\"M7.50014 12C8.32864 12 9.00027 11.3284 9.00027 10.4999C9.00027 9.67139 8.32864 8.99976 7.50014 8.99976C6.67163 8.99976 6 9.67139 6 10.4999C6 11.3284 6.67163 12 7.50014 12Z\" fill=\"#656565\"></path>\n                                            <path d=\"M10.4996 6.00015C11.3281 6.00015 11.9998 5.32852 11.9998 4.50002C11.9998 3.67151 11.3281 2.99988 10.4996 2.99988C9.67114 2.99988 8.99951 3.67151 8.99951 4.50002C8.99951 5.32852 9.67114 6.00015 10.4996 6.00015Z\" fill=\"#656565\"></path>\n                                            <path d=\"M10.4996 9.00015C11.3281 9.00015 11.9998 8.32852 11.9998 7.50002C11.9998 6.67151 11.3281 5.99988 10.4996 5.99988C9.67114 5.99988 8.99951 6.67151 8.99951 7.50002C8.99951 8.32852 9.67114 9.00015 10.4996 9.00015Z\" fill=\"#656565\"></path>\n                                            <path d=\"M1.50014 6.00015C2.32864 6.00015 3.00027 5.32852 3.00027 4.50002C3.00027 3.67151 2.32864 2.99988 1.50014 2.99988C0.671634 2.99988 0 3.67151 0 4.50002C0 5.32852 0.671634 6.00015 1.50014 6.00015Z\" fill=\"#656565\"></path>\n                                            <path d=\"M1.50014 9.00015C2.32864 9.00015 3.00027 8.32852 3.00027 7.50002C3.00027 6.67151 2.32864 5.99988 1.50014 5.99988C0.671634 5.99988 0 6.67151 0 7.50002C0 8.32852 0.671634 9.00015 1.50014 9.00015Z\" fill=\"#656565\"></path>\n                                            <path d=\"M7.50014 3.00027C8.32864 3.00027 9.00027 2.32864 9.00027 1.50014C9.00027 0.671634 8.32864 0 7.50014 0C6.67163 0 6 0.671634 6 1.50014C6 2.32864 6.67163 3.00027 7.50014 3.00027Z\" fill=\"#656565\"></path>\n                                        </svg>\n                                        Skylum Products                                    </div>\n                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Luminar on Desktop            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"/luminar\">Overview</a><a class=\"footer-new__item\" href=\"/luminar/pricing\">Pricing</a><a class=\"footer-new__item\" href=\"\" data-show-popup-name=\"features-popup-footer\" data-show-popup-before=\"\" data-show-popup-next=\"\">Features</a><a class=\"footer-new__item\" href=\"\" data-show-popup-name=\"extension-popup-footer\" data-show-popup-before=\"\" data-show-popup-next=\"\">Pro Tools</a><a class=\"footer-new__item\" href=\"\" data-show-popup-name=\"use-cases-popup-footer\" data-show-popup-before=\"\" data-show-popup-next=\"\">Use Cases</a><a class=\"footer-new__item\" href=\"\" data-show-popup-name=\"alternatives-popup-footer\" data-show-popup-before=\"\" data-show-popup-next=\"\">Alternatives</a><a class=\"footer-new__item\" href=\"/luminar-trial\">Trial</a><a class=\"footer-new__item\" href=\"/luminar-discount\">Discounts</a><a class=\"footer-new__item\" href=\"/l/join-beta\" rel=\"nofollow\">Luminar on Desktop Beta</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Luminar on Mobile            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"/luminar-mobile\">Overview</a><a class=\"footer-new__item\" href=\"/luminar-for-ipad\">Luminar for iPad</a><a class=\"footer-new__item\" href=\"/luminar-for-iphone\">Luminar for iPhone</a><a class=\"footer-new__item\" href=\"/luminar-for-vision-pro\">Luminar for Vision Pro</a><a class=\"footer-new__item\" href=\"https://support.skylum.com/luminar_mobile\" target=\"_self\">Luminar on Mobile User Guide</a><a class=\"footer-new__item\" href=\"\" data-show-popup-name=\"mobile-alternatives-popup-footer\" data-show-popup-before=\"\" data-show-popup-next=\"\">Alternatives</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Aperty            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://aperty.ai\" rel=\"nofollow\" target=\"_blank\">Overview</a><a class=\"footer-new__item\" href=\"https://aperty.ai/pricing\" rel=\"nofollow\" target=\"_blank\">Pricing</a><a class=\"footer-new__item\" href=\"https://support.aperty.ai/\" rel=\"nofollow\" target=\"_blank\">Aperty User Guide</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Online Tools            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"/online-photo-editor\">Online Editor</a><a class=\"footer-new__item\" href=\"https://skylum.com/color-palette-generator\" target=\"_self\">Color Palette</a><a class=\"footer-new__item\" href=\"/color-picker\">Color Picker</a>        </div>\n        </div>\n                                    </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- END column 1 -->\n\n                    <!-- START column 2 -->\n                    <div class=\"col-lg-2 col-md-12 col-12\">\n                        <div class=\"footer-new__column\">\n\n                            <div class=\"footer-new__group js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    Marketplace                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Presets            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/luminar-presets\" target=\"_self\">Luminar Presets</a><a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/lightroom-presets\" target=\"_self\">Lightroom Presets</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Bundles            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/bundles?filters[compatibility]=3\" target=\"_self\">Luminar Neo Bundles</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            LUTs            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/luts?filters[compatibility]=3\" rel=\"nofollow\" target=\"_self\">Luminar Neo LUTs</a><a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/luts?filters[compatibility]=8\" target=\"_self\">Aperty LUTs</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Overlays            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/textures\" rel=\"nofollow\" target=\"_self\">Textures</a><a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/sky-objects\" target=\"_self\">Sky Objects</a><a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/backgrounds\" target=\"_self\">Backgrounds</a>        </div>\n        </div>\n            <div class=\"footer-new__category js-accordion-wrapper\">\n        <div class=\"footer-new__category-title js-accordion-trigger\">\n            Extra            <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n        </div>\n        <div class=\"footer-new__category-body js-accordion-body\">\n        <a class=\"footer-new__item\" href=\"https://marketplace.skylum.com/software\" target=\"_self\">Other software</a><a class=\"footer-new__item\" href=\"/x-membership\">X Membership</a>        </div>\n        </div>\n        <a class=\"footer-new__item footer-new__item_big\" href=\"https://marketplace.skylum.com/skies\" target=\"_self\">Skies</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://marketplace.skylum.com/e-books\" target=\"_self\">E-boooks</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://marketplace.skylum.com/classes\" target=\"_self\">Courses</a>                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- END column 2 -->\n\n                    <!-- START column 3 -->\n                    <div class=\"col-lg-2 col-md-12 col-12\">\n                        <div class=\"footer-new__column\">\n\n                            <div class=\"footer-new__group js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    Company                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                        <a class=\"footer-new__item footer-new__item_big\" href=\"/about\">About Skylum</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/careers\" target=\"_self\">Careers</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/ambassadors\" target=\"_self\">Ambassadors</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/affiliates\">Affiliate Program</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/terms-of-use\" target=\"_self\">Terms of use</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/legal\" target=\"_self\">Privacy Policy</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/ai-guidelines-policy\" target=\"_self\">AI Guidelines</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/contact-us\">Contact Us</a>                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- END column 3 -->\n\n                    <!-- START column 4 -->\n                    <div class=\"col-lg-2 col-md-12 col-12\">\n                        <div class=\"footer-new__column\">\n\n                            <div class=\"footer-new__group js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    Help                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                        <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/support\" rel=\"nofollow\" target=\"_self\">Contact Support</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/faq/luminar-neo\" target=\"_self\">FAQs</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://support.skylum.com/\" rel=\"nofollow\" target=\"_self\">User Guide</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"\" onclick=\"event.preventDefault();showCookieBanner();\">Change Choice on Cookies</a>                                </div>\n                            </div>\n\n                            <div class=\"footer-new__group js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    For Business                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                        <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/skylum-for-business\" target=\"_self\">Skylum for Business</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/volume-licensing\" target=\"_self\">Volume Licensing</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/resellers\">Reseller Program</a>                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- END column 4 -->\n\n                    <!-- START column 5 -->\n                    <div class=\"col-lg-2 col-md-12 col-12\">\n                        <div class=\"footer-new__column\">\n\n                            <div class=\"footer-new__group footer-new__group_smb js-mob-accordion\">\n                                <div class=\"footer-new__group-title js-mob-accordion-trigger\">\n                                    Learn More                                    <i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>\n                                </div>\n                                <div class=\"footer-new__group-body\">\n                                        <a class=\"footer-new__item footer-new__item_big\" href=\"https://blog.skylum.com/\" target=\"_self\">Blog</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/how-to\">How To</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"https://skylum.com/newsroom\" target=\"_self\">Newsroom</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/luminar-community\">Our community</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/luminar-for-creators\">Luminar for Creators</a>    <a class=\"footer-new__item footer-new__item_big\" href=\"/welcome-artists\">Earn with Luminar Marketplace</a>        <div class=\"footer-new__ca"
+ }
+}
